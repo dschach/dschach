@@ -11,10 +11,10 @@
 - 👨‍💻 All of my GitHub projects are available at [https://github.com/dschach](Https://github.com/dschach)
 - 📝 I should blog more at [X-Squared on Demand](https://www.x2od.com)
 - 📄 Here's my professional experience: [LinkedIn](https://www.linkedin.com/in/davidschach/)
-- 🌱 I’m currently learning GitHub actions and how to make cool things happen automatically when submitting PRs, etc.
+- 🌱 I’m currently learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc.
 - 💬 Ask me about apprenticeships and equity in the tech industry.
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Platform**
-- 📫 How to reach me: Find me via LinkedIn, Twitter, or [some other site](https://www.lmgtfy.com)!
+- 📫 How to reach me: Find me via LinkedIn, Twitter, or [some other site](https://www.duckduckgo.com)!
 - ⚡ Fun fact: I was born in South Africa
 
 <h3 align="left">Connect with me:</h3>
@@ -22,7 +22,6 @@
 <a href="https://twitter.com/dschach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dschach" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davidschach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidschach" height="30" width="40" /></a>
 <a href="https://salesforce.stackexchange.com/users/dschach" target="blank"><img align="center" src="media/SalesforceStackExchangeLogo.png" alt="dschach" height="30" width="30" /></a>
-<!-- <a href="https://instagram.com/dschach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dschach" height="30" width="40" /></a> -->
 <a href="https://medium.com/@dschach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dschach" height="30" width="40" /></a>
 <a href="/https://www.x2od.com/feed" target="blank"><img align="center" src="https://www.x2od.com/wp/wp-content/uploads/FINAL-LOGO_OK_square_whitebg.jpeg" alt="https://www.x2od.com/feed" height="30" width="30" /></a>
 </p>
