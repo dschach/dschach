@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat" alt="dschach" /> </p>
 <p align="left"> <a href="https://twitter.com/dschach" target="blank"><img src="https://img.shields.io/twitter/follow/dschach?logo=twitter&style=for-the-badge" alt="dschach" /></a> </p>
 
-- <img src="media/salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
-- 🔭 I’m currently working on some <img src="media/salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code templates: [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework), [RecordTypes](https://github.com/dschach/record-types), [Duplicate Handling](https://github.com/dschach/duplicatehandling), and an upcoming <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [Salesforce Labs](https://github.com/SalesforceLabs) project!
+- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
+- 🔭 I’m currently working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code templates: [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework), [RecordTypes](https://github.com/dschach/record-types), [Duplicate Handling](https://github.com/dschach/duplicatehandling), and an upcoming <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [Salesforce Labs](https://github.com/SalesforceLabs) project!
 - I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
 - 😄 Pronouns: he/him
 - 👨‍💻 All of my GitHub projects are available at [https://github.com/dschach](Https://github.com/dschach)
@@ -13,7 +13,7 @@
 - 📄 Here's my professional experience: [LinkedIn](https://www.linkedin.com/in/davidschach/)
 - 🌱 I’m currently learning GitHub actions and how to make cool things happen automatically when submitting PRs, etc.
 - 💬 Ask me about apprenticeships and equity in the tech industry.
-- <img src="media/salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Platform**
+- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Platform**
 - 📫 How to reach me: Find me via LinkedIn, Twitter, or [some other site](https://www.lmgtfy.com)!
 - ⚡ Fun fact: I was born in South Africa
 
