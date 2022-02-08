@@ -26,6 +26,8 @@
 <a href="/https://www.x2od.com/feed" target="blank"><img align="center" src="https://www.x2od.com/wp/wp-content/uploads/FINAL-LOGO_OK_square_whitebg.jpeg" alt="https://www.x2od.com/feed" height="30" width="30" /></a>
 </p>
 
+<a href="https://salesforce.stackexchange.com/users/59/davidschach"><img src="https://salesforce.stackexchange.com/users/flair/59.png" width="208" height="58" alt="profile for DavidSchach at Salesforce Stack Exchange, Q&amp;A for Salesforce administrators, implementation experts, developers and anybody in-between" title="profile for DavidSchach at Salesforce Stack Exchange, Q&amp;A for Salesforce administrators, implementation experts, developers and anybody in-between"></a>
+
 ![dschach Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dschach&show_icons=true&locale=en&layout=compact)
 
 ![dschach GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=dschach&show_icons=true&locale=en)
