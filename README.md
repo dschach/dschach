@@ -1,5 +1,5 @@
 ### Hi 👋 I'm David Schach
-#### A Salesforce Architect at <a href="www.gusto.com"><img src="media/gusto.png" height="30" width="30" style="vertical-align: middle;"/>Gusto</a>
+#### A Salesforce Architect
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat" alt="dschach" /> </p>
 <p align="left"> <a href="https://twitter.com/dschach" target="blank"><img src="https://img.shields.io/twitter/follow/dschach?logo=twitter&style=for-the-badge" alt="dschach" /></a> </p>
