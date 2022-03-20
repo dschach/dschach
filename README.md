@@ -36,11 +36,11 @@
 
 # X-Squared on Demand
 <!-- BLOG-POSTS:START -->
-- [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html) (X-Squared)
-- [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html) (X-Squared)
-- [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html) (X-Squared)
-- [Display Only My Role’s Records on a Report](https://www.x2od.com/2013/07/22/my-role-records.html) (X-Squared)
-- [Chatter Publisher Actions &lpar;Part 2&rpar;: Object Custom Action](https://www.x2od.com/2013/07/15/publisher-actions-pt2.html) (X-Squared)
+- [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
+- [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
+- [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
+- [Display Only My Role’s Records on a Report](https://www.x2od.com/2013/07/22/my-role-records.html)
+- [Chatter Publisher Actions &lpar;Part 2&rpar;: Object Custom Action](https://www.x2od.com/2013/07/15/publisher-actions-pt2.html)
 
 <!-- BLOG-POSTS:END -->
 
