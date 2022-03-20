@@ -1,0 +1,20 @@
+name: Latest Salesforce Stackexchange activity
+on:
+  schedule: # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-salesforce-stackexchange:
+    name: Update this repo's README with latest activity from Salesforce.StackExchange
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull RSS feed from Salesforce.Stackexchange
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SaleforceStackexchange"
+          commit_message: "Updated readme with the latest Saleforce.Stackexchange data"
+          feed_list: "https://salesforce.stackexchange.com/feeds/user/59"
+          template: "[$title]($url) - $date"

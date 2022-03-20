@@ -35,10 +35,9 @@
 ![dschach GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dschach&)
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Answer by DavidSchach for Shared Related List with 3 Objects](https://salesforce.stackexchange.com/questions/370995/shared-related-list-with-3-objects/371002#371002)
-- [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
-- [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
-- [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
-- [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
+
+# Latest Activity on [Salesforce.StackExchange](https://salesforce.stackexchange.com)
+<!-- SaleforceStackexchange:START -->
+<!-- SaleforceStackexchange:END -->
