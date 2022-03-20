@@ -44,5 +44,4 @@
 <!-- BLOG-POSTS:END -->
 
 # Latest Activity on [Salesforce.StackExchange](https://salesforce.stackexchange.com)
-<!-- SaleforceStackexchange:START -->
-<!-- SaleforceStackexchange:END -->
+<!-- SaleforceStackexchange:START -->[Answer by DavidSchach for Shared Related List with 3 Objects](https://salesforce.stackexchange.com/questions/370995/shared-related-list-with-3-objects/371002#371002) - Tue Mar 08 2022 1:24 AM[Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001) - Tue Mar 08 2022 1:21 AM[Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525) - Sat Dec 04 2021 10:23 PM[Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907) - Sat May 22 2021 4:11 PM[Answer by DavidSchach for How do I make my visualforce page rerender?](https://salesforce.stackexchange.com/questions/342922/how-do-i-make-my-visualforce-page-rerender/343569#343569) - Wed May 19 2021 4:41 AM<!-- SaleforceStackexchange:END -->
