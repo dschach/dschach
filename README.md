@@ -34,7 +34,7 @@
 
 ![dschach GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dschach&)
 
-# Blog posts
+# X-Squared on Demand
 <!-- BLOG-POSTS:START -->
 [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html) (X-Squared)
 [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html) (X-Squared)
@@ -44,7 +44,7 @@
 
 <!-- BLOG-POSTS:END -->
 
-# [Salesforce.StackExchange](https://salesforce.stackexchange.com) Activity
+# Salesforce StackExchange
 <!-- SaleforceStackexchange:START -->
 [Answer by DavidSchach for Shared Related List with 3 Objects](https://salesforce.stackexchange.com/questions/370995/shared-related-list-with-3-objects/371002#371002)
 [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
