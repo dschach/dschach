@@ -45,12 +45,7 @@
 # [Salesforce.StackExchange](https://salesforce.stackexchange.com) Activity
 <!-- SaleforceStackexchange:START -->
 [Answer by DavidSchach for Shared Related List with 3 Objects](https://salesforce.stackexchange.com/questions/370995/shared-related-list-with-3-objects/371002#371002)
-
 [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
-
 [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
-
 [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
-
-[Answer by DavidSchach for How do I make my visualforce page rerender?](https://salesforce.stackexchange.com/questions/342922/how-do-i-make-my-visualforce-page-rerender/343569#343569)
-<!-- SaleforceStackexchange:END -->
+[Answer by DavidSchach for How do I make my visualforce page rerender?](https://salesforce.stackexchange.com/questions/342922/how-do-i-make-my-visualforce-page-rerender/343569#343569)<!-- SaleforceStackexchange:END -->
