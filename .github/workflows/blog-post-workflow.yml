@@ -2,16 +2,33 @@ name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
+  push:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest feed posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in my blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://feeds.feedburner.com/x2od_wp,https://medium.com/feed/@dschach"
+          comment_tag_name: "BLOG-POSTS"
+          commit_message: "Updated README with the latest blog posts"
+          feed_list: "https://feeds.feedburner.com/x2od_wp"
+          feed_names: "X-Squared"
+          template: "- [$title]($url)$newline"
+          enable_keepalive: false
+          tag_post_pre_newline: true
+      - name: Pull RSS feed from Salesforce.Stackexchange
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "SaleforceStackexchange"
+          commit_message: "Updated README with the latest Saleforce.Stackexchange data"
+          feed_list: "https://salesforce.stackexchange.com/feeds/user/59"
+          template: "- [$title]($url)$newline"
+          enable_keepalive: false
+          tag_post_pre_newline: true
+          filter_comments: "stackexchange/Comment by $author/"

@@ -2,10 +2,10 @@
 #### A Salesforce Architect
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat" alt="dschach" /> </p>
-<p align="left"> <a href="https://twitter.com/dschach" target="blank"><img src="https://img.shields.io/twitter/follow/dschach?logo=twitter&style=for-the-badge" alt="dschach" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dschach" target="blank"><img src="https://img.shields.io/twitter/follow/dschach?logo=twitter&style=for-the-badge" alt="dschach" /></a></p>
 
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
-- 🔭 I’m currently working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code templates: [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework), [RecordTypes](https://github.com/dschach/record-types), [Duplicate Handling](https://github.com/dschach/duplicatehandling), and <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs!
+- 🔭 I’m currently working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code templates: [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework), [RecordTypes](https://github.com/dschach/record-types), [Duplicate Handling](https://github.com/dschach/duplicatehandling), and <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs (just released)!
 - I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
 - 😄 Pronouns: he/him
 - 👨‍💻 All of my GitHub projects are available at [https://github.com/dschach](Https://github.com/dschach)
@@ -34,11 +34,22 @@
 
 ![dschach GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dschach&)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
+# X-Squared on Demand
+<!-- BLOG-POSTS:START -->
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
 - [Display Only My Role’s Records on a Report](https://www.x2od.com/2013/07/22/my-role-records.html)
 - [Chatter Publisher Actions &lpar;Part 2&rpar;: Object Custom Action](https://www.x2od.com/2013/07/15/publisher-actions-pt2.html)
-<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POSTS:END -->
+
+# Salesforce StackExchange
+<!-- SaleforceStackexchange:START -->
+- [Answer by DavidSchach for Shared Related List with 3 Objects](https://salesforce.stackexchange.com/questions/370995/shared-related-list-with-3-objects/371002#371002)
+- [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
+- [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
+- [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
+- [Answer by DavidSchach for How do I make my visualforce page rerender?](https://salesforce.stackexchange.com/questions/342922/how-do-i-make-my-visualforce-page-rerender/343569#343569)
+
+<!-- SaleforceStackexchange:END -->
