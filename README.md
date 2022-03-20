@@ -2,10 +2,10 @@
 #### A Salesforce Architect
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat" alt="dschach" /> </p>
-<p align="left"> <a href="https://twitter.com/dschach" target="blank"><img src="https://img.shields.io/twitter/follow/dschach?logo=twitter&style=for-the-badge" alt="dschach" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dschach" target="blank"><img src="https://img.shields.io/twitter/follow/dschach?logo=twitter&style=for-the-badge" alt="dschach" /></a></p>
 
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
-- 🔭 I’m currently working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code templates: [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework), [RecordTypes](https://github.com/dschach/record-types), [Duplicate Handling](https://github.com/dschach/duplicatehandling), and <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs!
+- 🔭 I’m currently working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code templates: [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework), [RecordTypes](https://github.com/dschach/record-types), [Duplicate Handling](https://github.com/dschach/duplicatehandling), and <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs (just released)!
 - I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
 - 😄 Pronouns: he/him
 - 👨‍💻 All of my GitHub projects are available at [https://github.com/dschach](Https://github.com/dschach)

@@ -32,9 +32,3 @@ jobs:
           enable_keepalive: false
           tag_post_pre_newline: true
           filter_comments: "stackexchange/Comment by $author/"
- # update-readme-with-salesforce-stackexchange:
-   # name: Update this repo's README with latest activity from Salesforce.StackExchange
-  #  runs-on: ubuntu-latest
-   # steps:
-   #   - name: Checkout
-   #     uses: actions/checkout@v2
