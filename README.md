@@ -35,6 +35,5 @@
 ![dschach GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dschach&)
 
 # Blog posts
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
