@@ -19,7 +19,7 @@ jobs:
           commit_message: "Updated README with the latest blog posts"
           feed_list: "https://feeds.feedburner.com/x2od_wp,https://medium.com/feed/@dschach"
           feed_names: "X-Squared,Medium"
-          template: "[$title]($url) ($feedName)$newline"
+          template: "- [$title]($url) ($feedName)$newline"
           enable_keepalive: false
           tag_post_pre_newline: true
       - name: Pull RSS feed from Salesforce.Stackexchange
@@ -28,7 +28,7 @@ jobs:
           comment_tag_name: "SaleforceStackexchange"
           commit_message: "Updated README with the latest Saleforce.Stackexchange data"
           feed_list: "https://salesforce.stackexchange.com/feeds/user/59"
-          template: "[$title]($url)$newline"
+          template: "- [$title]($url)$newline"
           enable_keepalive: false
           tag_post_pre_newline: true
           filter_comments: "stackexchange/Comment by $author/"
