@@ -16,6 +16,7 @@ jobs:
         with:
           comment_tag_name: "BLOG-POSTS"
           feed_list: "https://feeds.feedburner.com/x2od_wp,https://medium.com/feed/@dschach"
+          feed_names: "X-Squared on Demand,Medium"
   update-readme-with-salesforce-stackexchange:
     name: Update this repo's README with latest activity from Salesforce.StackExchange
     runs-on: ubuntu-latest
@@ -28,4 +29,4 @@ jobs:
           comment_tag_name: "SaleforceStackexchange"
           commit_message: "Updated readme with the latest Saleforce.Stackexchange data"
           feed_list: "https://salesforce.stackexchange.com/feeds/user/59"
-          template: "[$title]($url) - $date"
+          template: "[$title]($url) - $date$newline"
