@@ -37,7 +37,7 @@
 # Blog posts
 <!-- BLOG-POSTS:START -->[Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html) (X-Squared)[Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html) (X-Squared)[ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html) (X-Squared)[Display Only My Role’s Records on a Report](https://www.x2od.com/2013/07/22/my-role-records.html) (X-Squared)[Chatter Publisher Actions &lpar;Part 2&rpar;: Object Custom Action](https://www.x2od.com/2013/07/15/publisher-actions-pt2.html) (X-Squared)<!-- BLOG-POSTS:END -->
 
-# Latest Activity on [Salesforce.StackExchange](https://salesforce.stackexchange.com)
+# [Salesforce.StackExchange](https://salesforce.stackexchange.com) Activity
 <!-- SaleforceStackexchange:START -->
 [Answer by DavidSchach for Shared Related List with 3 Objects](https://salesforce.stackexchange.com/questions/370995/shared-related-list-with-3-objects/371002#371002) - Tue Mar 08 2022 1:24 AM
 [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001) - Tue Mar 08 2022 1:21 AM
