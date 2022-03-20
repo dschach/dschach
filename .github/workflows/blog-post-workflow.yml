@@ -19,16 +19,19 @@ jobs:
           commit_message: "Updated README with the latest blog posts"
           feed_list: "https://feeds.feedburner.com/x2od_wp,https://medium.com/feed/@dschach"
           feed_names: "X-Squared,Medium"
-          template: "$newline[$title]($url) ($feedName)$newline"
+          template: "[$title]($url) ($feedName)$newline"
           enable_keepalive: false
+          tag_post_pre_newline: true
       - name: Pull RSS feed from Salesforce.Stackexchange
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "SaleforceStackexchange"
           commit_message: "Updated README with the latest Saleforce.Stackexchange data"
           feed_list: "https://salesforce.stackexchange.com/feeds/user/59"
-          template: "$newline[$title]($url)$newline"
+          template: "[$title]($url)$newline"
           enable_keepalive: false
+          tag_post_pre_newline: true
+          filter_comments: "stackexchange/Comment by $author/"
  # update-readme-with-salesforce-stackexchange:
    # name: Update this repo's README with latest activity from Salesforce.StackExchange
   #  runs-on: ubuntu-latest
