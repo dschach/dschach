@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in my blog posts
-        uses: gautamkrishnar/blog-post-workflow@1.7.0
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POSTS"
           commit_message: "Updated README with the latest blog posts"
@@ -23,7 +23,7 @@ jobs:
           enable_keepalive: false
           tag_post_pre_newline: true
       - name: Pull RSS feed from Salesforce.Stackexchange
-        uses: gautamkrishnar/blog-post-workflow@1.7.0
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "SaleforceStackexchange"
           commit_message: "Updated README with the latest Saleforce.Stackexchange data"
