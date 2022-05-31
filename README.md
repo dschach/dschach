@@ -22,6 +22,14 @@
   - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc.
 
+##### ACHIEVEMENTS
+
+- Original designer of Salesforce implementation for the Obama reelection campaign
+- Creator of Chatter BINGO at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
+- Has surfaced a dwarf error message in Salesforce - if you know what that is, then you know what that means
+- Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
+- :swimmer: :bicyclist: :runner: Ironman finisher, Ironman Arizona 2021
+
 ##### BIO
 
 - 😄 Pronouns: he/him
@@ -54,6 +62,7 @@
 # X-Squared on Demand
 
 <!-- BLOG-POSTS:START -->
+
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
@@ -65,6 +74,7 @@
 # Salesforce StackExchange
 
 <!-- SaleforceStackexchange:START -->
+
 - [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
 - [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
 - [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
