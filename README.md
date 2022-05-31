@@ -24,8 +24,8 @@
 
 ##### ACHIEVEMENTS
 
-- Original designer of Salesforce implementation for the Obama reelection campaign
-- Creator of Chatter BINGO at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
+- :us: Original designer of Salesforce implementation for the Obama reelection campaign
+- :cloud: Creator of [Chatter BINGO](https://github.com/dschach/ChatterBINGO) at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
 - Has surfaced a dwarf error message in Salesforce - if you know what that is, then you know what that means
 - Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
 - :swimmer: :bicyclist: :runner: Ironman finisher, Ironman Arizona 2021
