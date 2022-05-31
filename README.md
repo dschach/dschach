@@ -12,10 +12,10 @@
 
 - I just released <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
 - 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
+- I just released an [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great!
 
 ##### CURRENTLY
 
-- I'm ALMOST ready to release an [Apex highlighter](https://github.com/dschach/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great!
 - 🔭 I’m working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code projects:
   - [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
   - [RecordTypes utility class](https://github.com/dschach/record-types)
@@ -54,6 +54,7 @@
 # X-Squared on Demand
 
 <!-- BLOG-POSTS:START -->
+
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
@@ -65,6 +66,7 @@
 # Salesforce StackExchange
 
 <!-- SaleforceStackexchange:START -->
+
 - [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
 - [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
 - [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
