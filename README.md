@@ -16,10 +16,10 @@
 ##### CURRENTLY
 
 - I'm ALMOST ready to release an [Apex highlighter](https://github.com/dschach/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great!
-- 🔭 I’m working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code templates:
+- 🔭 I’m working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code projects:
   - [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
-  - [RecordTypes](https://github.com/dschach/record-types)
-  - [Duplicate Handling](https://github.com/dschach/duplicatehandling)
+  - [RecordTypes utility class](https://github.com/dschach/record-types)
+  - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc.
 
 ##### BIO
