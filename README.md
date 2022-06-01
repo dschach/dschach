@@ -2,13 +2,17 @@
 
 #### A Salesforce Architect
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat" alt="dschach" /> </p>
-<p align="left"> <a href="https://twitter.com/dschach" target="blank"><img src="https://img.shields.io/twitter/follow/dschach?logo=twitter&style=for-the-badge" alt="dschach" /></a></p>
+![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)
+[![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
+[![Github followers](https://img.shields.io/github/followers/dschach?style=social)](https://github.com/dschach)
+![Years Badge](https://badges.pufler.dev/years/dschach)
+![Repos Badge](https://badges.pufler.dev/repos/dschach)
+![Commits Badge](https://badges.pufler.dev/commits/all/dschach)
 
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
 - 💼 To see all a long list of things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_portfolio/)
 
-##### RECENTLY
+##### LATEST NEWS
 
 - I just released <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
 - 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
@@ -17,7 +21,7 @@
 ##### CURRENTLY
 
 - 🔭 I’m working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code projects:
-  - [a Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
+  - [Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
   - [RecordTypes utility class](https://github.com/dschach/record-types)
   - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc.
@@ -62,6 +66,7 @@
 # X-Squared on Demand
 
 <!-- BLOG-POSTS:START -->
+
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
@@ -73,6 +78,7 @@
 # Salesforce StackExchange
 
 <!-- SaleforceStackexchange:START -->
+
 - [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
 - [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
 - [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
