@@ -2,13 +2,13 @@
 
 #### A Salesforce Architect
 
-![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)
-[![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)](https://twitter.com/dschach)
 [![Github followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow)](https://github.com/dschach)
+[![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=social)](https://www.github.com/dschach)
 ![Years Badge](https://badges.pufler.dev/years/dschach)
 ![Repos Badge](https://badges.pufler.dev/repos/dschach)
 ![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
-![Commits Badge](https://badges.pufler.dev/commits/all/dschach)
+![Commits Badge](https://badges.pufler.dev/commits/all/dschach?label=Commits)
 
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
 - 💼 To see a long list of things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_portfolio/)
@@ -67,6 +67,7 @@
 # X-Squared on Demand
 
 <!-- BLOG-POSTS:START -->
+
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
@@ -78,6 +79,7 @@
 # Salesforce StackExchange
 
 <!-- SaleforceStackexchange:START -->
+
 - [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
 - [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
 - [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
