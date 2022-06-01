@@ -66,7 +66,6 @@
 # X-Squared on Demand
 
 <!-- BLOG-POSTS:START -->
-
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
