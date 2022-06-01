@@ -4,19 +4,20 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)
 [![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
-[![Github followers](https://img.shields.io/github/followers/dschach?style=social)](https://github.com/dschach)
+[![Github followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow)](https://github.com/dschach)
 ![Years Badge](https://badges.pufler.dev/years/dschach)
 ![Repos Badge](https://badges.pufler.dev/repos/dschach)
+![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 ![Commits Badge](https://badges.pufler.dev/commits/all/dschach)
 
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
-- 💼 To see all a long list of things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_portfolio/)
+- 💼 To see a long list of things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_portfolio/)
 
 ##### LATEST NEWS
 
-- I just released <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
+- <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> I revised and released [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
 - 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
-- I just released an [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great!
+- <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I just released an [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great!
 
 ##### CURRENTLY
 
@@ -30,14 +31,14 @@
 
 - :us: Original designer of Salesforce implementation for the Obama reelection campaign
 - :cloud: Creator of [Chatter BINGO](https://github.com/dschach/ChatterBINGO) at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
-- Has surfaced a dwarf error message in Salesforce - if you know what that is, then you know what that means
-- Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
-- :swimmer: :bicyclist: :runner: Ironman finisher, Ironman Arizona 2021
+- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Has surfaced a dwarf error message in Salesforce - if you know what that is, then you know what that means
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dschach" height="15" width="15" /> Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
+- :swimmer: :bicyclist: :runner: Ironman finisher, Ironman Arizona 2021 <img align="center" src="./media/IronmanLogo.png" height="15" />
 
 ##### BIO
 
 - 😄 Pronouns: he/him
-- 👨‍💻 All of my GitHub projects are available at [https://github.com/dschach](Https://github.com/dschach)
+- 👨‍💻 All my GitHub projects are available at [https://github.com/dschach](Https://github.com/dschach)
 - 📝 I should blog more at [X-Squared on Demand](https://www.x2od.com)
 - 📄 Here's my professional experience: [LinkedIn](https://www.linkedin.com/in/davidschach/)
 - 💬 Ask me about apprenticeships and equity in the tech industry.
