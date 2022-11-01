@@ -5,14 +5,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)](https://twitter.com/dschach)
 [![Github followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow)](https://github.com/dschach)
 [![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
-![Years Badge](https://badges.pufler.dev/years/dschach)
-![Repos Badge](https://badges.pufler.dev/repos/dschach)
+
+<!--![Years Badge](https://badges.pufler.dev/years/dschach)
+![Repos Badge](https://badges.pufler.dev/repos/dschach)-->
+
 ![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=0e75b6&style=flat)
 ![Commits Badge](https://badges.pufler.dev/commits/all/dschach?label=Commits&style=flat)
 
 - I'm the Salesforce Architect at SpotOn, where I focus on governance, auditability, and extensible design
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
-- 💼 To see a long list of things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_website/)
+- 💼 To see a list of some things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_website/)
 
 ##### UP NEXT
 
@@ -57,7 +59,7 @@
 <a href="https://twitter.com/dschach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dschach" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davidschach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidschach" height="30" width="40" /></a>
 <a href="https://salesforce.stackexchange.com/users/dschach" target="blank"><img align="center" src="media/SalesforceStackExchangeLogo.png" alt="dschach" height="30" width="30" /></a>
-<a href="https://medium.com/@dschach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dschach" height="30" width="40" /></a>
+<a href="https://medium.com/@dschach" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" alt="@dschach" height="30" width="30" /></a>
 <a href="/https://www.x2od.com/feed" target="blank"><img align="center" src="https://www.x2od.com/wp/wp-content/uploads/FINAL-LOGO_OK_square_whitebg.jpeg" alt="https://www.x2od.com/feed" height="30" width="30" /></a>
 </p>
 
