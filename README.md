@@ -1,6 +1,6 @@
 ### Hi 👋 I'm David Schach
 
-#### A Salesforce Architect
+#### Salesforce Architect at SpotOn
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)](https://twitter.com/dschach)
 [![Github followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow)](https://github.com/dschach)
@@ -10,6 +10,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=0e75b6&style=flat)
 ![Commits Badge](https://badges.pufler.dev/commits/all/dschach?label=Commits&style=flat)
 
+- I'm the Salesforce Architect at SpotOn, where I focus on governance, auditability, and extensible design
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
 - 💼 To see a long list of things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_website/)
 
@@ -61,6 +62,8 @@
 </p>
 
 <a href="https://salesforce.stackexchange.com/users/59/davidschach"><img src="https://salesforce.stackexchange.com/users/flair/59.png" width="208" height="58" alt="profile for DavidSchach at Salesforce Stack Exchange, Q&amp;A for Salesforce administrators, implementation experts, developers and anybody in-between" title="profile for DavidSchach at Salesforce Stack Exchange, Q&amp;A for Salesforce administrators, implementation experts, developers and anybody in-between"></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dschach)](https://github.com/ryo-ma/github-profile-trophy)
 
 |                                                              Top Languages                                                               |                                                     GitHub Stats                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
