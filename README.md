@@ -5,10 +5,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)](https://twitter.com/dschach)
 [![Github followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow)](https://github.com/dschach)
 [![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
-![Years Badge](https://badges.pufler.dev/years/dschach)
-![Repos Badge](https://badges.pufler.dev/repos/dschach)
 ![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=0e75b6&style=flat)
-![Commits Badge](https://badges.pufler.dev/commits/all/dschach?label=Commits&style=flat)
+<!-- ![Years Badge](https://badges.pufler.dev/years/dschach) -->
+<!-- ![Repos Badge](https://badges.pufler.dev/repos/dschach) -->
+<!-- ![Commits Badge](https://badges.pufler.dev/commits/all/dschach?label=Commits&style=flat) -->
 
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
 - 💼 To see a long list of things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_website/)
