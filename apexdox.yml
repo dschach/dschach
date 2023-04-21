@@ -1,0 +1,39 @@
+engine:
+  source:
+    - path: '${workspaceFolder}/record-types/force-app/main/default/classes'
+      sourceUrl: https://github.com/dschach/record-types/blob/main/
+    - path: '${workspaceFolder}/salesforce-trigger-framework/force-app/main/default/classes'
+      sourceUrl: https://github.com/dschach/salesforce-trigger-handler/blob/main/
+  targetDirectory: '${workspaceFolder}/docs'
+  # excludes:
+  #   - '*Test.cls'
+  title: David Schach's Code Projects Documentation
+  subtitle: Documentation for <a target="_blank" rel="noopener noreferrer" href="https://github.com/dschach/">My code portfolio</a>
+  sortOrder: alpha
+  cleanDir: true
+  showTOCSnippets: true
+  scope:
+    - global
+    - public
+    - protected
+    - private
+    - webService
+    - testMethod
+  homePagePath: '${workspaceFolder}/doc-assets/main.html'
+  #pages:
+  #- '${workspaceFolder}/doc-assets/Installation.html'
+  assets:
+    - '${workspaceFolder}/doc-assets/logo.png'
+    - '${workspaceFolder}/doc-assets/favicon.png'
+    - '${workspaceFolder}/doc-assets/icon.png'
+    - '${workspaceFolder}/doc-assets/index.css'
+    - '${workspaceFolder}/doc-assets/highlight.css'
+    - '${workspaceFolder}/doc-assets/styling.css'
+    - '${workspaceFolder}/doc-assets/highlight.js'
+    - '${workspaceFolder}/doc-assets/index.js'
+    - '${workspaceFolder}/doc-assets/files/changelog.html'
+  port: 8089
+docblock:
+  alignItems: true
+  spacious: true
+  omitDescriptionTag: false

@@ -1,0 +1,44 @@
+{
+	"name": "dschach-readme",
+	"private": true,
+	"version": "0.1.0",
+	"description": "All about me on GitHub",
+	"keywords": ["dschach","David Schach"],
+	"author": "David Schach",
+	"license": "MIT",
+	"repository": {},
+	"scripts": {
+		"pmd:scan:csv": "$HOME/pmd/bin/pmd check --dir force-app --rulesets pmd/ruleset.xml --format csv --report-file pmd/pmd.csv --cache .pmdCache",
+		"pmd:scan:deploy:csv": "$HOME/pmd/bin/pmd check --dir force-app --rulesets pmd/deployRules.xml --format csv --report-file pmd/pmd.csv --cache .pmdCache",
+		"precommit": "lint-staged",
+		"prepare": "husky install",
+		"prettier:apex": "prettier --write \"force-app/**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,yaml,yml}\"",
+		"prettier:docs": "prettier --write \"docs/*.html\"",
+		"prettier:verify": "prettier --list-different \"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}\"",
+		"prettier": "prettier --write \"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,xml,yaml,yml}\"",
+		"release:preview": "release-please release-pr --token=$GITHUB_TOKEN --repo-url=dschach/QuoteCustomSync --target-branch=main --dry-run --debug",
+		"setup:docs": ". doc-assets/setupApexDox.sh",
+		"scratchorg": ". scripts/scratchorg.sh",
+		"updateHighlight": ". doc-assets/updateHighlight.sh"
+	},
+	"devDependencies": {
+		"@prettier/plugin-xml": "^2.2.0",
+		"husky": "^8.0.3",
+		"lint-staged": "^13.2.1",
+		"marked": "^4.3.0",
+		"prettier": "^2.8.7",
+		"prettier-plugin-apex": "^1.12.0",
+		"release-please": "^15.10.3"
+	},
+	"lint-staged": {
+		"force-app/**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,yaml,yml}": [
+			"prettier --write"
+		],
+		"docs/assets/*.css": [
+			"prettier --write"
+		],
+		"docs/*.html": [
+			"prettier --write --tab-width 2"
+		]
+	}
+}
