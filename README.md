@@ -9,8 +9,8 @@
 [![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
 ![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=0e75b6&style=flat)
 
-<!-- ![Years Badge](https://badges.pufler.dev/years/dschach)![Repos Badge](https://badges.pufler.dev/repos/dschach) -->
-
+<!-- ![Years Badge](https://badges.pufler.dev/years/dschach) -->
+<!-- ![Repos Badge](https://badges.pufler.dev/repos/dschach) -->
 <!-- ![Commits Badge](https://badges.pufler.dev/commits/all/dschach?label=Commits&style=flat) -->
 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
