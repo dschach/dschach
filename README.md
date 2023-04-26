@@ -5,7 +5,7 @@
 #### Salesforce Architect
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)](https://twitter.com/dschach)
-[![Github followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow)](https://github.com/dschach)
+[![Github followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow%20@dschach)](https://github.com/dschach)
 [![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
 ![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=0e75b6&style=flat)
 
