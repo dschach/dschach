@@ -1,3 +1,5 @@
+![](media/DS%20Certification%20Header.png)
+
 ### Hi 👋 I'm David Schach
 
 #### Salesforce Architect
