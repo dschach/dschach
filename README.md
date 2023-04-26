@@ -54,7 +54,7 @@
 - :cloud: Creator of [Chatter BINGO](https://github.com/dschach/ChatterBINGO) at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Has surfaced a dwarf error message in Salesforce - if you know what that is, then you know what that means
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dschach" height="15" width="15" /> Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
-- :swimmer: :bicyclist: :runner: Ironman finisher, Ironman Arizona 2021 <img align="center" src="./media/IronmanLogo.png" height="15" />
+- :swimmer: :biking_man: :runner: Ironman finisher, Ironman Arizona 2021 <img align="center" src="./media/IronmanLogo.png" height="15" />
 
 ##### BIO
 
