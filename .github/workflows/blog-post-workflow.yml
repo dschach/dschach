@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every day, at midnight
+    - cron: '0 0 * * 5' # Runs every Friday, at midnight
   push:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
@@ -25,10 +25,10 @@ jobs:
       - name: Pull RSS feed from Salesforce.Stackexchange
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: 'SaleforceStackexchange'
-          commit_message: 'Updated README with the latest Saleforce.Stackexchange data'
+          comment_tag_name: 'SalesforceStackexchange'
+          commit_message: 'Updated README with the latest Salesforce.Stackexchange data'
           feed_list: 'https://salesforce.stackexchange.com/feeds/user/59'
           template: '- [$title]($url)$newline'
-          enable_keepalive: false
+          enable_keepalive: true
           tag_post_pre_newline: true
           filter_comments: 'stackexchange/Comment by $author/'
