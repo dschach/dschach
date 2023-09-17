@@ -1,0 +1,33 @@
+{
+	"name": "dschach-readme",
+	"private": true,
+	"version": "0.1.0",
+	"description": "All about me on GitHub",
+	"keywords": [
+		"dschach",
+		"David Schach"
+	],
+	"author": "David Schach",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dschach/dschach.git"
+	},
+	"scripts": {
+		"precommit": "lint-staged",
+		"prepare": "husky install"
+	},
+	"devDependencies": {
+		"@prettier/plugin-xml": "^3.2.1",
+		"husky": "^8.0.3",
+		"lint-staged": "^14.0.1",
+		"marked": "^9.0.2",
+		"prettier": "^3.0.3",
+		"prettier-plugin-apex": "^2.0.1"
+	},
+	"lint-staged": {
+		"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,yaml,yml}": [
+			"prettier --write"
+		]
+	}
+}

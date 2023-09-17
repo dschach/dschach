@@ -94,6 +94,7 @@
 # X-Squared on Demand
 
 <!-- BLOG-POSTS:START -->
+
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
@@ -105,6 +106,7 @@
 # Salesforce StackExchange
 
 <!-- SaleforceStackexchange:START -->
+
 - [Answer by DavidSchach for Field Service Mobile Application](https://salesforce.stackexchange.com/questions/386938/field-service-mobile-application/408985#408985)
 - [Answer by DavidSchach for Find out where a LWC is being used](https://salesforce.stackexchange.com/questions/314244/find-out-where-a-lwc-is-being-used/393144#393144)
 - [Answer by DavidSchach for Download a VF page as pdf with a button](https://salesforce.stackexchange.com/questions/381449/download-a-vf-page-as-pdf-with-a-button/381468#381468)
