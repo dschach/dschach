@@ -8,7 +8,7 @@ engine:
   # excludes:
   #   - '*Test.cls'
   title: David Schach's Code Projects Documentation
-  subtitle: Documentation for <a target="_blank" rel="noopener noreferrer" href="https://github.com/dschach/">My code portfolio</a>
+  subtitle: Documentation for <a target="_blank" rel="noopener noreferrer" href="https://github.com/dschach/">my code portfolio</a>
   sortOrder: alpha
   cleanDir: true
   showTOCSnippets: true
@@ -17,7 +17,7 @@ engine:
     - public
     - protected
     - private
-    - webService
+    #- webService
     - testMethod
   homePagePath: '${workspaceFolder}/doc-assets/main.html'
   #pages:
