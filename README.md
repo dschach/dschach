@@ -94,7 +94,6 @@
 # X-Squared on Demand
 
 <!-- BLOG-POSTS:START -->
-
 - [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
 - [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
 - [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
@@ -106,10 +105,10 @@
 # Salesforce StackExchange
 
 <!-- SaleforceStackexchange:START -->
-
+- [Answer by DavidSchach for Field Service Mobile Application](https://salesforce.stackexchange.com/questions/386938/field-service-mobile-application/408985#408985)
+- [Answer by DavidSchach for Find out where a LWC is being used](https://salesforce.stackexchange.com/questions/314244/find-out-where-a-lwc-is-being-used/393144#393144)
+- [Answer by DavidSchach for Download a VF page as pdf with a button](https://salesforce.stackexchange.com/questions/381449/download-a-vf-page-as-pdf-with-a-button/381468#381468)
 - [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
 - [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
-- [Answer by DavidSchach for Problem using formula](https://salesforce.stackexchange.com/questions/343899/problem-using-formula/343907#343907)
-- [Answer by DavidSchach for How do I make my visualforce page rerender?](https://salesforce.stackexchange.com/questions/342922/how-do-i-make-my-visualforce-page-rerender/343569#343569)
 
 <!-- SaleforceStackexchange:END -->
