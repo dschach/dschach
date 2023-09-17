@@ -1,0 +1,50 @@
+{
+	"trailingComma": "none",
+	"singleQuote": true,
+	"tabWidth": 2,
+	"printWidth": 180,
+	"useTabs": true,
+	"bracketSpacing": true,
+	"apexInsertFinalNewline": false,
+	"bracketSameLine": true,
+	"xmlSelfClosingSpace": true,
+	"overrides": [
+		{
+			"files": "**/lwc/**/*.html",
+			"options": { "parser": "lwc", "printWidth": 80 }
+		},
+		{
+			"files": "*.{cmp,page,component}",
+			"options": { "parser": "html" }
+		},
+		{
+			"files": "*.apex",
+			"options": { "parser": "anonymous-apex" }
+		},
+		{
+			"files": "*.{yml,yaml}",
+			"options": { "tabWidth": 2, "useTabs": false }
+		},
+		{
+			"files": ".prettierrc",
+			"options": { "parser": "json", "printWidth": 80 }
+		},
+		{
+			"files": "pmd/*.xml",
+			"options": { "useTabs": true }
+		},
+		{
+			"files": "docs/*.html",
+			"options": {
+				"parser": "html",
+				"useTabs": true,
+				"tabWidth": 2,
+				"printWidth": 150,
+				"htmlWhitespaceSensitivity": "css",
+				"singleQuote": false
+			}
+		}
+	],
+	"plugins": ["prettier-plugin-apex", "@prettier/plugin-xml"],
+	"$schema": "https://json.schemastore.org/prettierrc"
+}
