@@ -31,10 +31,6 @@
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
 - 💼 To see a list of some things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_website/)
 
-##### UP NEXT
-
-- Any ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around.
-
 ##### LATEST NEWS
 
 - <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> I revised and released [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
@@ -51,13 +47,17 @@
   - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc. In particular, I want to build a framework for a central collection of actions that any repo in an organization can use.
 
+##### UP NEXT
+
+- Any ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around.
+
 ##### ACHIEVEMENTS
 
 - :us: Original designer of the Salesforce implementation for the Obama reelection campaign
 - :cloud: Creator of [Chatter BINGO](https://github.com/dschach/ChatterBINGO) at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
-- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Has surfaced a dwarf error message in Salesforce - if you know what that is, then you know what that means
+- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Has surfaced a dwarf error message in Salesforce - IYKYK
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dschach" height="15" width="15" /> Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
-- :swimmer: :biking_man: :runner: Ironman finisher, Ironman Arizona 2021 <img align="center" src="./media/IronmanLogo.png" height="15" />
+- :swimmer: :biking_man: :runner: Ironman Arizona 2021 <img align="center" src="./media/IronmanLogo.png" height="15" />
 
 ##### BIO
 
@@ -67,7 +67,7 @@
 - 📄 Here's my professional experience: [LinkedIn](https://www.linkedin.com/in/davidschach/)
 - 💬 Ask me about apprenticeships and equity in the tech industry.
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Platform**
-- 📫 How to reach me: Find me via LinkedIn, Twitter, or [some other site](https://www.duckduckgo.com)!
+- 📫 How to reach me: Find me via LinkedIn, Threads, or [some other site](https://www.duckduckgo.com)!
 - ⚡ Fun fact: I was born in South Africa
 
 ##### CONTACT
