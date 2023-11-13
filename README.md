@@ -33,31 +33,42 @@
 
 ##### LATEST NEWS
 
-- <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> I revised and released [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
-- 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
-- <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I just released an [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
+- Lots of work on Github Actions!
+  - Using [Release Please](https://github.com/googleapis/release-please), a wonderful changelog generator from Google, with Github actions, expanding it to [create an AppExchange package](https://github.com/dschach/packaging-action-test) automatically when a new project version is released.
+  - Automatically [rename Dependabot pull requests](https://github.com/dschach/dschach/tree/main/.github) so they are more useful in changelogs
+- A new version of [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) now comes with an (optional) Monokai theme that mimics the wonderful MavensMate Sublime Text Monokai theme. 
+- [Kevin Poorman](https://github.com/codefriar) and I have been working on [ApexKit](https://github.com/codefriar/ApexKit), which is a very cool set of tools for Apex
+- <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I released an updated [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
 
 ##### CURRENTLY
 
 - 🔭 I’m working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code projects:
+  - [Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
   - [Quote Custom Sync](https://github.com/dschach/QuoteCustomSync)
   - [Campaing Member Status](https://github.com/dschach/campaign-member-status/)
-  - [Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
   - [RecordTypes utility class](https://github.com/dschach/record-types)
   - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc. In particular, I want to build a framework for a central collection of actions that any repo in an organization can use.
 
 ##### UP NEXT
 
-- Any ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around.
+- I'm a huge fan of Gearset, and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
+- Any other ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around. What are the best requirements for a custom metadata driven trigger handler? One method per class (like NPSP)? 
+
+##### COOL PROJECTS
+
+These are some projects I'm particularly proud of
+
+- <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> I revised and released [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
+- 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
 
 ##### ACHIEVEMENTS
 
-- :us: Original designer of the Salesforce implementation for the Obama reelection campaign
+- :us: Original Salesforce architect for the Obama reelection campaign
 - :cloud: Creator of [Chatter BINGO](https://github.com/dschach/ChatterBINGO) at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Has surfaced a dwarf error message in Salesforce - IYKYK
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dschach" height="15" width="15" /> Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
-- :swimmer: :biking_man: :runner: Ironman Arizona 2021 <img align="center" src="./media/IronmanLogo.png" height="15" />
+- :swimmer: :biking_man: :runner: Ironman Arizona 2021 finisher! <img align="center" src="./media/IronmanLogo.png" height="15" />
 
 ##### BIO
 
@@ -66,14 +77,14 @@
 - 📝 I should blog more at [X-Squared on Demand](https://www.x2od.com)
 - 📄 Here's my professional experience: [LinkedIn](https://www.linkedin.com/in/davidschach/)
 - 💬 Ask me about apprenticeships and equity in the tech industry.
-- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Platform**
+- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Einstein 1 Platform**
 - 📫 How to reach me: Find me via LinkedIn, Threads, or [some other site](https://www.duckduckgo.com)!
 - ⚡ Fun fact: I was born in South Africa
 
 ##### CONTACT
 
 [![GitHub](https://img.shields.io/badge/GitHub-12100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/dschach)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dschach/)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dschach/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidschach)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dschach)
 [![Salesforce Stackexchange](https://img.shields.io/badge/-Salesforce%20StackExchange-0063bf?style=for-the-badge&logoColor=white&logo=data:image/png;base64,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)](https://salesforce.stackexchange.com/users/dschach)
