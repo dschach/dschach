@@ -15,7 +15,8 @@
 	},
 	"scripts": {
 		"precommit": "lint-staged",
-		"prepare": "husky install"
+		"prepare": "husky install",
+		"prune": "git branch | grep -v \"main\" | xargs git branch -D"
 	},
 	"devDependencies": {
 		"@prettier/plugin-xml": "^3.2.2",
