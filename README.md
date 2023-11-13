@@ -54,6 +54,7 @@
 
 - I'm a huge fan of Gearset, and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
 - Any other ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around. What are the best requirements for a custom metadata driven trigger handler? One method per class (like NPSP)?
+- Have you used ApexDox? I am thinking of updating it and putting in some cool features. What would you like to see it do? All my repos have ApexDox sites - [here's a great example](https://dschach.github.io/salesforce-trigger-framework).
 
 ##### COOL PROJECTS
 
