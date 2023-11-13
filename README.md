@@ -106,11 +106,11 @@
 # Salesforce StackExchange
 
 <!-- SalesforceStackexchange:START -->
+- [Answer by DavidSchach for How to get salesforce instance url](https://salesforce.stackexchange.com/questions/64616/how-to-get-salesforce-instance-url/411173#411173)
+- [Answer by DavidSchach for How to see the fields which are used in a Visualforce email template](https://salesforce.stackexchange.com/questions/409910/how-to-see-the-fields-which-are-used-in-a-visualforce-email-template/410841#410841)
 - [Answer by DavidSchach for Field Service Mobile Application](https://salesforce.stackexchange.com/questions/386938/field-service-mobile-application/408985#408985)
 - [Answer by DavidSchach for Find out where a LWC is being used](https://salesforce.stackexchange.com/questions/314244/find-out-where-a-lwc-is-being-used/393144#393144)
 - [Answer by DavidSchach for Download a VF page as pdf with a button](https://salesforce.stackexchange.com/questions/381449/download-a-vf-page-as-pdf-with-a-button/381468#381468)
-- [Answer by DavidSchach for Help in writing trigger in optimised way](https://salesforce.stackexchange.com/questions/370904/help-in-writing-trigger-in-optimised-way/371001#371001)
-- [Answer by DavidSchach for How to get Salesforce content files base URL via Apex?](https://salesforce.stackexchange.com/questions/363290/how-to-get-salesforce-content-files-base-url-via-apex/363525#363525)
 
 <!-- SalesforceStackexchange:END -->
 <!-- prettier-ignore-end -->
