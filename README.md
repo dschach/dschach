@@ -36,7 +36,7 @@
 - Lots of work on Github Actions!
   - Using [Release Please](https://github.com/googleapis/release-please), a wonderful changelog generator from Google, with Github actions, expanding it to [create an AppExchange package](https://github.com/dschach/packaging-action-test) automatically when a new project version is released.
   - Automatically [rename Dependabot pull requests](https://github.com/dschach/dschach/tree/main/.github) so they are more useful in changelogs
-- A new version of [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) now comes with an (optional) Monokai theme that mimics the wonderful MavensMate Sublime Text Monokai theme. 
+- A new version of [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) now comes with an (optional) Monokai theme that mimics the wonderful MavensMate Sublime Text Monokai theme.
 - [Kevin Poorman](https://github.com/codefriar) and I have been working on [ApexKit](https://github.com/codefriar/ApexKit), which is a very cool set of tools for Apex
 - <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I released an updated [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
 
@@ -53,7 +53,7 @@
 ##### UP NEXT
 
 - I'm a huge fan of Gearset, and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
-- Any other ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around. What are the best requirements for a custom metadata driven trigger handler? One method per class (like NPSP)? 
+- Any other ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around. What are the best requirements for a custom metadata driven trigger handler? One method per class (like NPSP)?
 
 ##### COOL PROJECTS
 
