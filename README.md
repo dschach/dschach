@@ -36,18 +36,18 @@
 - Lots of work on Github Actions!
   - Using [Release Please](https://github.com/googleapis/release-please), a wonderful changelog generator from Google, with Github actions, expanding it to [create an AppExchange package](https://github.com/dschach/packaging-action-test) automatically when a new project version is released.
   - Automatically [rename Dependabot pull requests](https://github.com/dschach/dschach/tree/main/.github) so they are more useful in changelogs
-- A new version of [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) now comes with an (optional) Monokai theme that mimics the wonderful MavensMate Sublime Text Monokai theme.
 - [Kevin Poorman](https://github.com/codefriar) and I have been working on [ApexKit](https://github.com/codefriar/ApexKit), which is a very cool set of tools for Apex
 - <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I released an updated [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
+  - It now comes with an (optional) [Monokai theme](https://github.com/highlightjs/highlightjs-apex/blob/main/src/styles/monokai-sublime-apex.css) that mimics the wonderful MavensMate Sublime Text Monokai theme.
 
 ##### CURRENTLY
 
 - 🔭 I’m working on some <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Salesforce code projects:
+
   - [Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
-  - [Quote Custom Sync](https://github.com/dschach/QuoteCustomSync)
+  - [Quote Custom Sync](https://github.com/dschach/QuoteCustomSync) using custom metadata
   - [Campaing Member Status](https://github.com/dschach/campaign-member-status/)
-  - [RecordTypes utility class](https://github.com/dschach/record-types)
-  - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
+
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc. In particular, I want to build a framework for a central collection of actions that any repo in an organization can use.
 
 ##### UP NEXT
@@ -59,6 +59,8 @@
 
 These are some projects I'm particularly proud of
 
+- [RecordTypes utility class](https://github.com/dschach/record-types)
+- [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
 - <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> I revised and released [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
 - 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
 
