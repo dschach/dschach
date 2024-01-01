@@ -120,11 +120,11 @@ These are some projects I'm particularly proud of
 # Salesforce StackExchange
 
 <!-- SalesforceStackexchange:START -->
-- [Answer by DavidSchach for How to get salesforce instance url](https://salesforce.stackexchange.com/questions/64616/how-to-get-salesforce-instance-url/411173#411173)
-- [Answer by DavidSchach for How to see the fields which are used in a Visualforce email template](https://salesforce.stackexchange.com/questions/409910/how-to-see-the-fields-which-are-used-in-a-visualforce-email-template/410841#410841)
-- [Answer by DavidSchach for Field Service Mobile Application](https://salesforce.stackexchange.com/questions/386938/field-service-mobile-application/408985#408985)
-- [Answer by DavidSchach for Find out where a LWC is being used](https://salesforce.stackexchange.com/questions/314244/find-out-where-a-lwc-is-being-used/393144#393144)
-- [Answer by DavidSchach for Download a VF page as pdf with a button](https://salesforce.stackexchange.com/questions/381449/download-a-vf-page-as-pdf-with-a-button/381468#381468)
+- [Answer by DavidSchach for ScreenFlow when launched from QuickAction, is finished. And when we hit the browser back button the flow is relaunched/Re-executing the flow](https://salesforce.stackexchange.com/questions/414701/screenflow-when-launched-from-quickaction-is-finished-and-when-we-hit-the-brow/414775#414775)
+- [Answer by DavidSchach for Filter suggested accounts based on criteria](https://salesforce.stackexchange.com/questions/414712/filter-suggested-accounts-based-on-criteria/414722#414722)
+- [Answer by DavidSchach for Slack slackv2 Version](https://salesforce.stackexchange.com/questions/414714/slack-slackv2-version/414721#414721)
+- [Answer by DavidSchach for Unit Test Code Coverage 72% Help](https://salesforce.stackexchange.com/questions/414715/unit-test-code-coverage-72-help/414720#414720)
+- [Answer by DavidSchach for How to add description to installed package AND how to add description to package version?](https://salesforce.stackexchange.com/questions/393351/how-to-add-description-to-installed-package-and-how-to-add-description-to-packag/414587#414587)
 
 <!-- SalesforceStackexchange:END -->
 <!-- prettier-ignore-end -->
