@@ -109,11 +109,11 @@ These are some projects I'm particularly proud of
 
 <!-- prettier-ignore-start -->
 <!-- BLOG-POSTS:START -->
-- [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/02/28/duplicate-record-items.html)
-- [Lightning Component With Running User Information](https://www.x2od.com/2015/02/27/lightning-component-running-user.html)
-- [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/07/03/chatterbingo-github.html)
-- [Display Only My Role’s Records on a Report](https://www.x2od.com/2013/07/22/my-role-records.html)
-- [Chatter Publisher Actions &lpar;Part 2&rpar;: Object Custom Action](https://www.x2od.com/2013/07/15/publisher-actions-pt2.html)
+- [Prevent Duplicate Emails on Leads](https://www.x2od.com/2024/prevent-duplicate-lead-emails.html)
+- [Duplicate Record Item Enrichment and Auto-Deletion Code](https://www.x2od.com/2022/duplicate-record-items.html)
+- [Lightning Component With Running User Information](https://www.x2od.com/2015/lightning-component-running-user.html)
+- [ChatterBINGO is Now Open-Source](https://www.x2od.com/2014/chatterbingo-github.html)
+- [Display Only My Role’s Records on a Report](https://www.x2od.com/2013/my-role-records.html)
 
 <!-- BLOG-POSTS:END -->
 
