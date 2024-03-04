@@ -37,10 +37,13 @@
 
 - Lots of work on Github Actions!
   - Using [Release Please](https://github.com/googleapis/release-please), a wonderful changelog generator from Google, with Github actions, expanding it to [create an AppExchange package](https://github.com/dschach/packaging-action-test) automatically when a new project version is released.
-  - Automatically [rename Dependabot pull requests](https://github.com/dschach/dschach/tree/main/.github) so they are more useful in changelogs
+  - Automatically [rename Dependabot pull requests](https://github.com/dschach/github-actions/blob/main/.github/workflows/LOCAL-dependabot-approve-and-auto-merge.yml) so they are more useful in changelogs and semver-compliant
+  - A repository of starter GitHub workflows: [https://github.com/dschach/.github](https://github.com/dschach/.github)
+- Configuring [Renovate](https://github.com/apps/renovate) as a Dependabot replacement and exploring custom configurations for that tool: [Renovate central configuration](https://github.com/dschach/github-actions/blob/main/renovate.json5) and [a local extension](https://github.com/dschach/github-actions/blob/main/renovate.json)
 - [Kevin Poorman](https://github.com/codefriar) and I have been working on [ApexKit](https://github.com/codefriar/ApexKit), which is a very cool set of tools for Apex
 - <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I released an updated [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
   - It now comes with an (optional) [Monokai theme](https://github.com/highlightjs/highlightjs-apex/blob/main/src/styles/monokai-sublime-apex.css) that mimics the wonderful MavensMate Sublime Text Monokai theme.
+- <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I also released a [Visualforce highlighter](https://github.com/dschach/highlightjs-visualforce) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-visualforce)!
 
 ##### CURRENTLY
 
@@ -66,6 +69,8 @@ These are some projects I'm particularly proud of
 - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
 - <img src="media/labs.png" height="15" width="15" style="vertical-align: middle;"/> I revised and released [ACTION PLANS version 4](https://github.com/SalesforceLabs/ActionPlansV4) from Salesforce Labs! Find it on the [AppExchange](https://sforce.co/3wWTEqK)
 - 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
+- [Highlightjs Apex](https://github.com/dschach/highlightjs-visualforce) - [npm package](npmjs.com/package/highlightjs-apex)
+- [Highlightjs Visualforce](https://github.com/dschach/highlightjs-visualforce) - [npm package](https://www.npmjs.com/package/highlightjs-visualforce)
 
 ##### ACHIEVEMENTS
 
