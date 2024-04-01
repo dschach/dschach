@@ -19,7 +19,7 @@
 		"prune": "git branch | grep -v \"main\" | xargs git branch -D"
 	},
 	"devDependencies": {
-		"@prettier/plugin-xml": "^3.3.1",
+		"@prettier/plugin-xml": "^3.4.1",
 		"husky": "^9.0.11",
 		"lint-staged": "^15.2.2",
 		"marked": "^12.0.1",
