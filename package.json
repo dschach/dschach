@@ -15,7 +15,7 @@
 	},
 	"scripts": {
 		"precommit": "lint-staged",
-		"prepare": "husky install",
+		"prepare": "husky",
 		"prune": "git branch | grep -v \"main\" | xargs git branch -D"
 	},
 	"devDependencies": {
