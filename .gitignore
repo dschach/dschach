@@ -41,8 +41,6 @@ $RECYCLE.BIN/
 
 # PMD
 .pmdCache
-pmd/deploy.csv
-pmd/pmd.csv
 
 # metadata format files
 src
