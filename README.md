@@ -131,8 +131,8 @@ These are some projects I'm particularly proud of
 - [Answer by DavidSchach for ScreenFlow when launched from QuickAction, is finished. And when we hit the browser back button the flow is relaunched/Re-executing the flow](https://salesforce.stackexchange.com/questions/414701/screenflow-when-launched-from-quickaction-is-finished-and-when-we-hit-the-brow/414775#414775)
 - [Answer by DavidSchach for Slack slackv2 Version](https://salesforce.stackexchange.com/questions/414714/slack-slackv2-version/414721#414721)
 - [Answer by DavidSchach for Unit Test Code Coverage 72% Help](https://salesforce.stackexchange.com/questions/414715/unit-test-code-coverage-72-help/414720#414720)
+- [Answer by DavidSchach for Is there any way I can differentiate objects that are supported by standard list controller from the ones which are not..?](https://salesforce.stackexchange.com/questions/414666/is-there-any-way-i-can-differentiate-objects-that-are-supported-by-standard-list/414719#414719)
 - [Answer by DavidSchach for How to add description to installed package AND how to add description to package version?](https://salesforce.stackexchange.com/questions/393351/how-to-add-description-to-installed-package-and-how-to-add-description-to-packag/414587#414587)
-- [Answer by DavidSchach for How to get salesforce instance url](https://salesforce.stackexchange.com/questions/64616/how-to-get-salesforce-instance-url/411173#411173)
 
 <!-- SalesforceStackexchange:END -->
 <!-- prettier-ignore-end -->
