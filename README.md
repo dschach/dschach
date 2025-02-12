@@ -51,7 +51,7 @@
 
   - [Trigger Framework](https://github.com/dschach/salesforce-trigger-framework)
   - [Quote Custom Sync](https://github.com/dschach/QuoteCustomSync) using custom metadata
-  - [Campaing Member Status](https://github.com/dschach/campaign-member-status/)
+  - [Campaing Member Status](https://github.com/x2od/campaign-member-status/)
 
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc. In particular, I want to build a framework for a central collection of actions that any repo in an organization can use.
 
