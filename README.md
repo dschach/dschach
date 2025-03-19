@@ -43,13 +43,12 @@
 - [Kevin Poorman](https://github.com/codefriar) and I have been working on [ApexKit](https://github.com/codefriar/ApexKit), which is a very cool set of tools for Apex
 - <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I released an updated [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
   - It now comes with an (optional) [Monokai theme](https://github.com/highlightjs/highlightjs-apex/blob/main/src/styles/monokai-sublime-apex.css) that mimics the wonderful MavensMate Sublime Text Monokai theme.
-- <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I also released a [Visualforce highlighter](https://github.com/dschach/highlightjs-visualforce) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-visualforce)!
+  <!-- - <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I also released a [Visualforce highlighter](https://github.com/dschach/highlightjs-visualforce) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-visualforce)! -->
 
 ##### CURRENTLY
 
-- If you want to display Apex code on a web page, check out [Highlightjs Apex](https://github.com/dschach/highlightjs-visualforce) - [npm package](npmjs.com/package/highlightjs-apex)
-
 - 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc. In particular, I want to build a framework for a central collection of actions that any repo in an organization can use.
+- AutoRABIT's product CodeScan has fast become one of my favorite tools. It's like PMD on steroids, with memory, so you can mark violations in PR branches and the tool magically remembers the override after you merge to main!
 
 ##### UP NEXT
 
