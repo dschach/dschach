@@ -29,32 +29,29 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 [![Release-Please](https://img.shields.io/badge/Release_Please-000000?style=flat-square&logo=google&logoColor=white)](https://github.com/googleapis/release-please)
 
-- I'm a Salesforce Architect, with a passion for governance, auditability, and extensible design
+- I'm a Salesforce Architect with a passion for governance, auditability, standards, and extensible design
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
 - 💼 To see a list of some things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_website/)
 
 ##### LATEST NEWS
 
-- Lots of work on Github Actions!
+- 🌱 Lots of work on Github Actions!
   - Using [Release Please](https://github.com/googleapis/release-please), a wonderful changelog generator from Google, with Github actions, expanding it to [create an AppExchange package](https://github.com/dschach/packaging-action-test) automatically when a new project version is released.
   - Automatically [rename Dependabot pull requests](https://github.com/dschach/github-actions/blob/main/.github/workflows/LOCAL-dependabot-approve-and-auto-merge.yml) so they are more useful in changelogs and semver-compliant
   - A repository of starter GitHub workflows: [https://github.com/dschach/.github](https://github.com/dschach/.github)
 - Configuring [Renovate](https://github.com/apps/renovate) as a Dependabot replacement and exploring custom configurations for that tool: [Renovate central configuration](https://github.com/dschach/github-actions/blob/main/renovate.json5) and [a local extension](https://github.com/dschach/github-actions/blob/main/renovate.json)
-- [Kevin Poorman](https://github.com/codefriar) and I have been working on [ApexKit](https://github.com/codefriar/ApexKit), which is a very cool set of tools for Apex
+- 🐇 AutoRABIT's product [CodeScan](https://www.autorabit.com/codescan/) has fast become one of my favorite tools. It's like PMD on steroids, with memory, so you can mark violations in PR branches and the tool magically remembers the override after you merge to main!
 - <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I released an updated [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
   - It now comes with an (optional) [Monokai theme](https://github.com/highlightjs/highlightjs-apex/blob/main/src/styles/monokai-sublime-apex.css) that mimics the wonderful MavensMate Sublime Text Monokai theme.
   <!-- - <img align="center" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I also released a [Visualforce highlighter](https://github.com/dschach/highlightjs-visualforce) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-visualforce)! -->
 
-##### CURRENTLY
-
-- 🌱 I’m learning GitHub actions and how to make cool things happen automatically when submitting pull requests, etc. In particular, I want to build a framework for a central collection of actions that any repo in an organization can use.
-- AutoRABIT's product CodeScan has fast become one of my favorite tools. It's like PMD on steroids, with memory, so you can mark violations in PR branches and the tool magically remembers the override after you merge to main!
-
 ##### UP NEXT
 
-- I'm a huge fan of Gearset, and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
+- Exploring AutoRABIT's [Automated Release Management](https://www.autorabit.com/products/automated-release-management/) (ARM) product for CI/CD in Salesforce.
+- Building a repository or gist of my favorite custom X-Path PMD rules
+- I'm a fan of [Gearset](https://gearset.com), and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
 - Any other ideas? I'm thinking of adding custom metadata to the trigger framework, but there are so many of those around. What are the best requirements for a custom metadata driven trigger handler? One method per class (like NPSP)?
-- Have you used ApexDox? I am thinking of updating it and putting in some cool features. What would you like to see it do? All my repos have ApexDox sites - [here's a great example](https://dschach.github.io/salesforce-trigger-framework).
+- Have you used [ApexDox](https://github.com/no-stack-dub-sack/apexdox-vs-code)? I am thinking of updating it and putting in some cool features. What would you like to see it do? All my repos have ApexDox sites - [here's a great example](https://dschach.github.io/salesforce-trigger-framework).
 
 ##### COOL PROJECTS
 
@@ -64,7 +61,9 @@
   - [Quote Custom Sync](https://github.com/x2od/QuoteCustomSync) using custom metadata
   - [Campaing Member Status](https://github.com/x2od/campaign-member-status/)
 
-These are some projects I'm particularly proud of
+- [Kevin Poorman](https://github.com/codefriar) and I have been working on [ApexKit](https://github.com/codefriar/ApexKit), which is a very cool set of tools for Apex
+
+These are some of my projects I'm particularly proud of
 
 - [RecordTypes utility class](https://github.com/dschach/record-types)
 - [Duplicate Record Handling](https://github.com/dschach/duplicatehandling)
@@ -72,6 +71,14 @@ These are some projects I'm particularly proud of
 - 📋 I rewrote large chunks of [Surveyforce](https://github.com/SalesforceLabs/survey-force) - check it out!
 
 <!-- - [Highlightjs Visualforce](https://github.com/dschach/highlightjs-visualforce) - [npm package](https://www.npmjs.com/package/highlightjs-visualforce) -->
+
+##### TOP OPEN SOURCE CONTRIBUTIONS
+
+- [PMD](https://github.com/pmd/pmd)
+- [ApexDox](https://github.com/no-stack-dub-sack/apexdox-vs-code)
+- [ApexPMD](https://github.com/ChuckJonas/vscode-apex-pmd)
+- [SurveyForce](https://github.com/SalesforceLabs/survey-force)
+- [CanTheUser](https://github.com/codefriar/CanTheUser)
 
 ##### ACHIEVEMENTS
 
