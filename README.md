@@ -49,7 +49,7 @@
 
 - Exploring AutoRABIT's [Automated Release Management](https://www.autorabit.com/products/automated-release-management/) (ARM) product for CI/CD in Salesforce.
 - Building a repository or gist of my favorite custom X-Path PMD rules
-- I'm a fan of [Gearset](https://gearset.com), and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
+- I'm a fan of [Gearset](https://gearset.com) for straightforward pipelines, and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
 - I'd like to add some features to Mitch Spano's Apex Trigger Actions Framework. I'm considering per-user global bypasses, allowing multiple custom permissions to bypass execution, an option to debug limits, and some other things. Thoughts?
 - Have you used [ApexDox](https://github.com/no-stack-dub-sack/apexdox-vs-code)? I am thinking of updating it and putting in some cool features. What would you like to see it do? All my repos have ApexDox sites - [here's a great example](https://dschach.github.io/salesforce-trigger-framework).
 
