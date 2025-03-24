@@ -29,7 +29,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 [![Release-Please](https://img.shields.io/badge/Release_Please-000000?style=flat-square&logo=google&logoColor=white)](https://github.com/googleapis/release-please)
 
-- I'm a Salesforce Architect with a passion for governance, auditability, standards, and extensible design
+- I'm a Salesforce Architect with a passion for governance, auditability, standards, and extensible architectural design
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> I've been working on Salesforce since the [Summer 06](https://resources.docs.salesforce.com/142/latest/en-us/sfdc/pdf/salesforce_summer06_release_notes.pdf) release (142, API 7.0) (Yes, that's a long time!)
 - 💼 To see a list of some things I've done, check out my [online portfolio](https://my.visualcv.com/dschach_website/)
 
@@ -48,7 +48,7 @@
 ##### UP NEXT
 
 - Exploring AutoRABIT's [Automated Release Management](https://www.autorabit.com/products/automated-release-management/) (ARM) product for CI/CD in Salesforce.
-- Building a repository or gist of my favorite custom X-Path PMD rules
+- Building a repository or gist of my favorite custom XPath static code analysis rules (Apex, XML, HTML, etc)
 - I'm a fan of [Gearset](https://gearset.com) for straightforward pipelines, and I think that it could work well with Release-Please, even though R-P recommends Squash Merging and Gearset does simple merges. It would involve complex linting, possibly, but could enable Salesforce admins/devs to see a concise changelog of all changes pushed to Production with dates!
 - I'd like to add some features to Mitch Spano's Apex Trigger Actions Framework. I'm considering per-user global bypasses, allowing multiple custom permissions to bypass execution, an option to debug limits, and some other things. Thoughts?
 - Have you used [ApexDox](https://github.com/no-stack-dub-sack/apexdox-vs-code)? I am thinking of updating it and putting in some cool features. What would you like to see it do? All my repos have ApexDox sites - [here's a great example](https://dschach.github.io/salesforce-trigger-framework).
