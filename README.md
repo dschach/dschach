@@ -48,6 +48,8 @@
   - A repository of starter GitHub workflows: [https://github.com/x2od/.github](https://github.com/x2od/.github)
 - <img style="vertical-align: middle;" src="media/mend-io-favicon.png" alt="mend renovate logo" height="15" /> Configuring [Renovate](https://github.com/apps/renovate) as a <img src="./media/dependabot.png" height="15" style="vertical-align: middle;" /> Dependabot replacement and exploring custom configurations for that tool: [Renovate central configuration](https://github.com/dschach/github-actions/blob/main/renovate.json5) and [a local extension](https://github.com/dschach/github-actions/blob/main/renovate.json)
 - 🐇 AutoRABIT's product [CodeScan](https://www.autorabit.com/codescan/) has fast become one of my favorite tools. It's like PMD on steroids, with memory, so you can mark violations in PR branches and the tool magically remembers the override after you merge to main!
+- 📊 I also use Salesforce's [Code Analyzer](https://developer.salesforce.com/docs/platform/codeanalyzer/overview/) as a complementary tool in GitHub CI workflows.
+- ♿ Currently learning about accessibility in Salesforce UI and exploring various tools to enforce accessibility standards in declarative metadata and custom code.
 - <img style="vertical-align: middle;" src="https://avatars.githubusercontent.com/u/9039821" alt="HighlightJS logo" height="15" width="15" /> I released an updated [Apex highlighter](https://github.com/highlightjs/highlightjs-apex) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-apex)!
   - It now comes with an (optional) [Monokai theme](https://github.com/highlightjs/highlightjs-apex/blob/main/src/styles/monokai-sublime-apex.css) that mimics the wonderful MavensMate Sublime Text Monokai theme.
   <!-- - <img style="vertical-align: middle;" src="https://avatars.githubusercontent.com/u/9039821" alt="dschach" height="15" width="15" /> I also released a [Visualforce highlighter](https://github.com/dschach/highlightjs-visualforce) plugin for [highlight.js](https://highlightjs.org/) so any Apex on a webpage will look great - and I published it to [npm](https://www.npmjs.com/package/highlightjs-visualforce)! -->
@@ -84,6 +86,20 @@
 - [SurveyForce](https://github.com/SalesforceLabs/survey-force)
 - [CanTheUser](https://github.com/codefriar/CanTheUser)
 - [Apex-Rollup](https://github.com/jamessimone/apex-rollup)
+
+##### TOP REPOSITORIES (2024-2026)
+
+| Repository                                                                              | Stars   | Purpose                                                                        |
+| --------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| [salesforce-trigger-framework](https://github.com/dschach/salesforce-trigger-framework) | 33 ⭐   | Trigger handler framework with performance improvements and full documentation |
+| [duplicatehandling](https://github.com/dschach/duplicatehandling)                       | 5 ⭐    | Enhanced standard Salesforce duplicate handling                                |
+| [record-types](https://github.com/dschach/record-types)                                 | 2 ⭐    | RecordType utility class for quick, efficient retrieval                        |
+| [campaign-member-status](https://github.com/x2od/campaign-member-status)                | —       | Enforce CampaignMemberStatuses based on Campaign Type                          |
+| [github-actions](https://github.com/dschach/github-actions)                             | —       | Centralized GitHub Actions workflows and configurations                        |
+| [prettier-config](https://github.com/x2od/prettier-config)                              | —       | Central Prettier configuration used across all projects                        |
+| [PMD](https://github.com/pmd/pmd)                                                       | Contrib | Apex rules and enhancements for PMD static code analysis                       |
+| [ApexDox](https://github.com/no-stack-dub-sack/apexdox-vs-code)                         | Contrib | Documentation generation for Apex code                                         |
+| [Apex-Rollup](https://github.com/jamessimone/apex-rollup)                               | Contrib | Fast, configurable custom rollup solution                                      |
 
 ##### ACHIEVEMENTS
 
