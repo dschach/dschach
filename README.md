@@ -87,16 +87,19 @@
 - [CanTheUser](https://github.com/codefriar/CanTheUser)
 - [Apex-Rollup](https://github.com/jamessimone/apex-rollup)
 
-##### TOP REPOSITORIES (2024-2026)
+##### TOP REPOSITORIES (ALL-TIME)
 
 | Repository                                                                              | Stars   | Purpose                                                                        |
 | --------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| [ChatterBINGO](https://github.com/dschach/ChatterBINGO)                                 |         | The only community-created app used at Dreamforce 2010                         |
 | [salesforce-trigger-framework](https://github.com/dschach/salesforce-trigger-framework) | 33 ⭐   | Trigger handler framework with performance improvements and full documentation |
 | [duplicatehandling](https://github.com/dschach/duplicatehandling)                       | 5 ⭐    | Enhanced standard Salesforce duplicate handling                                |
 | [record-types](https://github.com/dschach/record-types)                                 | 2 ⭐    | RecordType utility class for quick, efficient retrieval                        |
-| [campaign-member-status](https://github.com/x2od/campaign-member-status)                | —       | Enforce CampaignMemberStatuses based on Campaign Type                          |
-| [github-actions](https://github.com/dschach/github-actions)                             | —       | Centralized GitHub Actions workflows and configurations                        |
-| [prettier-config](https://github.com/x2od/prettier-config)                              | —       | Central Prettier configuration used across all projects                        |
+| [ACTION PLANS V4](https://github.com/SalesforceLabs/ActionPlansV4)                      | Contrib | Salesforce Labs app for managing action plans                                  |
+| [ApexKit](https://github.com/codefriar/ApexKit)                                         | Contrib | Co-authored toolkit for Apex development                                       |
+| [campaign-member-status](https://github.com/x2od/campaign-member-status)                |         | Enforce CampaignMemberStatuses based on Campaign Type                          |
+| [github-actions](https://github.com/dschach/github-actions)                             |         | Centralized GitHub Actions workflows and configurations                        |
+| [prettier-config](https://github.com/x2od/prettier-config)                              |         | Central Prettier configuration used across all projects                        |
 | [PMD](https://github.com/pmd/pmd)                                                       | Contrib | Apex rules and enhancements for PMD static code analysis                       |
 | [ApexDox](https://github.com/no-stack-dub-sack/apexdox-vs-code)                         | Contrib | Documentation generation for Apex code                                         |
 | [Apex-Rollup](https://github.com/jamessimone/apex-rollup)                               | Contrib | Fast, configurable custom rollup solution                                      |
