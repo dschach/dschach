@@ -6,7 +6,6 @@
 
 <!-- badges:profile:start -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dschach?style=social)](https://twitter.com/dschach)
 [![GitHub followers](https://img.shields.io/github/followers/dschach?style=social&label=Follow%20@dschach)](https://github.com/dschach)
 [![Visitors](https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat)](https://www.github.com/dschach)
 ![GitHub User's stars](https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=0e75b6&style=flat)
@@ -130,11 +129,12 @@
 - 👨‍💻 All my GitHub projects are available at [https://github.com/dschach](https://github.com/dschach) and [https://github.com/x2od](https://github.com/x2od)
 - 📝 I should blog more at [X-Squared on Demand](https://www.x2od.com)
 - 📄 Here's my professional experience: [LinkedIn](https://www.linkedin.com/in/davidschach/)
-- 💬 Ask me about apprenticeships and equity in the tech industry.
+- <img style="vertical-align: middle;" src="./media/mensa-logo.png" alt="American Mensa logo" height="15" /> I am a Life Member of Mensa
+- 💬 Ask me about apprenticeships and equity in the tech industry
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Einstein 1 Lightning Agent 36O Platform**
-- 📫 How to reach me: Find me via LinkedIn, Threads, or [some other site](https://www.duckduckgo.com)!
+- 📫 How to reach me: Find me via [LinkedIn](https://www.linkedin.com/in/davidschach/), [Threads](https://www.threads.com/@dschach), or [some other site](https://www.duckduckgo.com)!
 - ⚡ Fun fact: I was born in South Africa
-- 🧠 More fun facts: I have lived in South Africa, the United States, Israel, and Australia, I swam NCAA Division I, I am a Life Member of Mensa, and I will defend the Oxford comma to the end
+- 🧠 More fun facts: I have lived in South Africa, the United States, Israel, and Australia; I swam NCAA Division I; I am a Life Member of Mensa; and I will defend the Oxford comma to the end
 
 ##### CONTACT
 
@@ -144,7 +144,7 @@
 [![GitHub x2od](media/badges/contact-github-x2od.svg)](https://github.com/x2od)
 [![Trailhead](media/badges/contact-trailblazer.svg)](https://salesforce.com/trailblazer/dschach)
 [![LinkedIn](media/badges/contact-linkedin.svg)](https://linkedin.com/in/davidschach)
-[![Twitter](media/badges/contact-twitter-x.svg)](https://twitter.com/dschach/)
+[![Follow @dschach](media/badges/contact-twitter-x.svg)](https://twitter.com/dschach/)
 [![Salesforce StackExchange](media/badges/contact-salesforce-stackexchange.svg)](https://salesforce.stackexchange.com/users/dschach)
 [![X-Squared on Demand](media/badges/contact-x2od.svg)](https://www.x2od.com)
 [![Instagram](media/badges/contact-instagram.svg)](https://instagram.com/dschach)

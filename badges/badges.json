@@ -5,7 +5,8 @@
 				"id": "twitter-follow",
 				"alt": "Twitter Follow",
 				"imageUrl": "https://img.shields.io/twitter/follow/dschach?style=social",
-				"url": "https://twitter.com/dschach"
+				"url": "https://twitter.com/dschach",
+				"hidden": true
 			},
 			{
 				"id": "github-followers",
@@ -254,7 +255,7 @@
 			},
 			{
 				"id": "twitter-x",
-				"message": "Twitter",
+				"message": "Follow @dschach",
 				"logoType": "builtin",
 				"logo": "x",
 				"logoColor": "white",
