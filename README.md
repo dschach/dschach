@@ -37,7 +37,6 @@
 [![Release Please](media/badges/skills-release-please.svg)](https://github.com/googleapis/release-please)
 [![Mend Renovate](media/badges/skills-mend-renovate.svg)](https://www.mend.io/mend-renovate/)
 [![highlight.js Apex](media/badges/skills-highlightjs-apex.svg)](https://github.com/highlightjs/highlightjs-apex)
-![highlight.js Agentscript](media/badges/skills-highlightjs-agentscript.svg)
 
 <!-- badges:skills:end -->
 

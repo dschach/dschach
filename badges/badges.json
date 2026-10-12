@@ -58,7 +58,7 @@
 				"message": "VSCode",
 				"logoType": "custom",
 				"logo": "vscode.png",
-				"color": "blue",
+				"color": "1e1e1e",
 				"style": "flat-square",
 				"url": "https://code.visualstudio.com/"
 			},
@@ -68,7 +68,7 @@
 				"logoType": "builtin",
 				"logo": "npm",
 				"logoColor": "white",
-				"color": "00A1E0",
+				"color": "CC3534",
 				"style": "flat-square",
 				"url": "https://www.npmjs.com/~dschach"
 			},
@@ -183,10 +183,9 @@
 			{
 				"id": "mend-renovate",
 				"message": "Mend Renovate",
-				"logoType": "builtin",
-				"logo": "renovate",
-				"logoColor": "000000",
-				"color": "55c6c2",
+				"logoType": "custom",
+				"logo": "mend-io-favicon.png",
+				"color": "9fe0dc",
 				"style": "flat-square",
 				"url": "https://www.mend.io/mend-renovate/"
 			},
@@ -208,7 +207,8 @@
 				"logo": "highlightjs.png",
 				"color": "blue",
 				"style": "flat-square",
-				"url": null
+				"url": null,
+				"hidden": true
 			}
 		]
 	},
