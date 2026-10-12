@@ -1,4 +1,4 @@
-name: Dependabot Pull Request Approve and Merge
+name: Dependabot Pull Request Title and Approve
 on: pull_request #_target
 permissions:
   pull-requests: write
@@ -40,10 +40,10 @@ jobs:
           echo "FINAL TITLE: $pr_title"
           gh pr edit "$PR_URL" --title "$pr_title"
 
-  # Auto merge Dependabot PRs for:
+  # Approve (but never merge) Dependabot PRs for:
   # - patch updates on prod dependencies
-  # - minor updates on dev dependencies
-  dependabot-auto-merge:
+  # - minor and patch updates on dev dependencies
+  dependabot-approve:
     needs: pull-request-title-change
     # Only run for Dependabot PRs
     if: ${{ github.actor == 'dependabot[bot]' }}
@@ -55,8 +55,8 @@ jobs:
         with:
           github-token: '${{ secrets.GITHUB_TOKEN }}'
 
-      - name: 'Check auto merge conditions'
-        id: auto-merge
+      - name: 'Check approval conditions'
+        id: approval
         if: |
           (
             steps.dependabot.outputs.update-type == 'version-update:semver-patch' &&
@@ -65,13 +65,11 @@ jobs:
             contains('version-update:semver-minor,version-update:semver-patch', steps.dependabot.outputs.update-type) &&
             contains('direct:development,indirect:development', steps.dependabot.outputs.dependency-type)
           )
-        run: echo "::notice ::auto-merge conditions satisfied"
+        run: echo "::notice ::approval conditions satisfied"
 
-      - name: 'Approve and merge PR'
-        if: ${{ steps.auto-merge.conclusion == 'success' }}
-        run: |
-          gh pr review --approve "$PR_URL"
-          gh pr merge --auto --squash "$PR_URL"
+      - name: 'Approve PR'
+        if: ${{ steps.approval.conclusion == 'success' }}
+        run: gh pr review --approve "$PR_URL"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
