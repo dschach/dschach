@@ -3,6 +3,7 @@ import { extname, join } from 'node:path';
 import { makeBadge } from 'badge-maker';
 import * as simpleIcons from 'simple-icons';
 
+const README = 'README.md';
 const BADGES_JSON = 'badges/badges.json';
 const LOGO_DIR = 'media/logos';
 const OUTPUT_DIR = 'media/badges';
@@ -76,14 +77,23 @@ for (const section of GENERATED_SECTIONS) {
 	}
 }
 
-for (const [section, lines] of Object.entries(markdown)) {
-	console.log(`<!-- ${section} -->`);
-	console.log(lines.join('\n'));
-	console.log();
-}
-
 if (failures.length) {
-	console.error(`${failures.length} badge(s) not generated:`);
+	console.error(`${failures.length} badge(s) not generated, README left unchanged:`);
 	for (const failure of failures) console.error(`  - ${failure}`);
 	process.exit(1);
 }
+
+let readme = readFileSync(README, 'utf8');
+for (const [section, lines] of Object.entries(markdown)) {
+	const start = `<!-- badges:${section}:start -->`;
+	const end = `<!-- badges:${section}:end -->`;
+	const startIndex = readme.indexOf(start);
+	const endIndex = readme.indexOf(end);
+	if (startIndex === -1 || endIndex < startIndex) {
+		console.error(`${README} is missing the ${section} badge markers: ${start} ... ${end}`);
+		process.exit(1);
+	}
+	readme = `${readme.slice(0, startIndex + start.length)}\n${lines.join('\n')}\n${readme.slice(endIndex)}`;
+}
+writeFileSync(README, readme);
+console.log(`Wrote ${readdirSync(OUTPUT_DIR).length} SVG badges to ${OUTPUT_DIR} and updated ${Object.values(markdown).flat().length} README badge links`);
