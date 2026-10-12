@@ -135,7 +135,7 @@
 - <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Let's jam about **Salesforce, Apex, and Security on the Salesforce Einstein 1 Lightning Agent 36O Platform**
 - 📫 How to reach me: Find me via LinkedIn, Threads, or [some other site](https://www.duckduckgo.com)!
 - ⚡ Fun fact: I was born in South Africa
-- 🧠 More fun facts: I have lived in South Africa, the United States, and Australia, I swam NCAA Division I, I am a Life Member of Mensa, and I will defend the Oxford comma to the end
+- 🧠 More fun facts: I have lived in South Africa, the United States, Israel, and Australia, I swam NCAA Division I, I am a Life Member of Mensa, and I will defend the Oxford comma to the end
 
 ##### CONTACT
 
