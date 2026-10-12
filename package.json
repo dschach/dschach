@@ -14,15 +14,18 @@
 		"url": "https://github.com/dschach/dschach.git"
 	},
 	"scripts": {
+		"badges": "node scripts/generate-badges.mjs",
 		"precommit": "lint-staged",
 		"prepare": "husky",
 		"prune": "git branch | grep -v \"main\" | xargs git branch -D"
 	},
 	"devDependencies": {
 		"@prettier/plugin-xml": "^3.4.2",
+		"badge-maker": "^6.0.0",
 		"husky": "^9.1.7",
 		"lint-staged": "^16.2.7",
-		"prettier": "^3.8.1"
+		"prettier": "^3.8.1",
+		"simple-icons": "^16.35.0"
 	},
 	"lint-staged": {
 		"**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,yaml,yml}": [

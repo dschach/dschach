@@ -1,0 +1,317 @@
+{
+	"profile": {
+		"badges": [
+			{
+				"id": "twitter-follow",
+				"alt": "Twitter Follow",
+				"imageUrl": "https://img.shields.io/twitter/follow/dschach?style=social",
+				"url": "https://twitter.com/dschach",
+				"hidden": true
+			},
+			{
+				"id": "github-followers",
+				"alt": "GitHub followers",
+				"imageUrl": "https://img.shields.io/github/followers/dschach?style=social&label=Follow%20@dschach",
+				"url": "https://github.com/dschach"
+			},
+			{
+				"id": "visitors",
+				"alt": "Visitors",
+				"imageUrl": "https://komarev.com/ghpvc/?username=dschach&label=Profile%20views&color=0e75b6&style=flat",
+				"url": "https://www.github.com/dschach"
+			},
+			{
+				"id": "github-stars",
+				"alt": "GitHub User's stars",
+				"imageUrl": "https://img.shields.io/github/stars/dschach?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&color=0e75b6&style=flat",
+				"url": null
+			},
+			{
+				"id": "npm-downloads",
+				"alt": "NPM Downloads by package author",
+				"imageUrl": "https://img.shields.io/npm-stat/dy/dschach?style=flat-square&logo=npm",
+				"url": null
+			}
+		]
+	},
+	"skills": {
+		"badges": [
+			{
+				"id": "salesforce",
+				"message": "Salesforce",
+				"logoType": "custom",
+				"logo": "salesforce-cloud-white.svg",
+				"color": "009EDB",
+				"style": "flat-square",
+				"url": "https://www.salesforce.com"
+			},
+			{
+				"id": "trailhead",
+				"message": "Trailhead",
+				"logoType": "custom",
+				"logo": "trailhead.png",
+				"color": "00A1E0",
+				"style": "flat-square",
+				"url": "https://salesforce.com/trailblazer/dschach"
+			},
+			{
+				"id": "vscode",
+				"message": "VSCode",
+				"logoType": "custom",
+				"logo": "vscode.png",
+				"color": "1e1e1e",
+				"style": "flat-square",
+				"url": "https://code.visualstudio.com/"
+			},
+			{
+				"id": "npm",
+				"message": "NPM",
+				"logoType": "builtin",
+				"logo": "npm",
+				"logoColor": "white",
+				"color": "CC3534",
+				"style": "flat-square",
+				"url": "https://www.npmjs.com/~dschach"
+			},
+			{
+				"id": "git",
+				"message": "Git",
+				"logoType": "builtin",
+				"logo": "git",
+				"logoColor": "white",
+				"color": "F05032",
+				"style": "flat-square",
+				"url": null
+			},
+			{
+				"id": "github",
+				"message": "GitHub",
+				"logoType": "builtin",
+				"logo": "github",
+				"logoColor": "white",
+				"color": "181717",
+				"style": "flat-square",
+				"url": "https://github.com/dschach"
+			},
+			{
+				"id": "prettier",
+				"message": "Prettier",
+				"logoType": "builtin",
+				"logo": "prettier",
+				"logoColor": "white",
+				"color": "F7B93E",
+				"style": "flat-square",
+				"url": "https://prettier.io"
+			},
+			{
+				"id": "github-actions",
+				"message": "GitHub Actions",
+				"logoType": "builtin",
+				"logo": "githubactions",
+				"logoColor": "white",
+				"color": "000000",
+				"style": "flat-square",
+				"url": null
+			},
+			{
+				"id": "pmd",
+				"message": "PMD",
+				"logoType": "custom",
+				"logo": "pmd.png",
+				"color": "0b1d3a",
+				"style": "flat-square",
+				"url": null
+			},
+			{
+				"id": "jquery",
+				"message": "JQuery",
+				"logoType": "builtin",
+				"logo": "jquery",
+				"logoColor": "white",
+				"color": "0769AD",
+				"style": "flat-square",
+				"url": null
+			},
+			{
+				"id": "codecov",
+				"message": "Codecov",
+				"logoType": "builtin",
+				"logo": "codecov",
+				"logoColor": "white",
+				"color": "F01F7A",
+				"style": "flat-square",
+				"url": null
+			},
+			{
+				"id": "apexdox",
+				"message": "ApexDox",
+				"logoType": "custom",
+				"logo": "apexdox.png",
+				"color": "2a1655",
+				"style": "flat-square",
+				"url": "https://github.com/no-stack-dub-sack/apexdox-vs-code"
+			},
+			{
+				"id": "semver",
+				"message": "SemVer",
+				"logoType": "builtin",
+				"logo": "semver",
+				"logoColor": "white",
+				"color": "3F4551",
+				"style": "flat-square",
+				"url": null
+			},
+			{
+				"id": "jira",
+				"message": "Jira",
+				"logoType": "builtin",
+				"logo": "jira",
+				"logoColor": "white",
+				"color": "0052CC",
+				"style": "flat-square",
+				"url": null
+			},
+			{
+				"id": "release-please",
+				"message": "Release Please",
+				"logoType": "builtin",
+				"logo": "google",
+				"logoColor": "white",
+				"color": "000000",
+				"style": "flat-square",
+				"url": "https://github.com/googleapis/release-please"
+			},
+			{
+				"id": "mend-renovate",
+				"message": "Mend Renovate",
+				"logoType": "custom",
+				"logo": "mend-io-favicon.png",
+				"color": "9fe0dc",
+				"style": "flat-square",
+				"url": "https://www.mend.io/mend-renovate/"
+			},
+			{
+				"id": "highlightjs-apex",
+				"label": "highlight.js",
+				"message": "Apex",
+				"logoType": "custom",
+				"logo": "highlightjs.png",
+				"color": "blue",
+				"style": "flat-square",
+				"url": "https://github.com/highlightjs/highlightjs-apex"
+			},
+			{
+				"id": "highlightjs-agentscript",
+				"label": "highlight.js",
+				"message": "Agentscript",
+				"logoType": "custom",
+				"logo": "highlightjs.png",
+				"color": "blue",
+				"style": "flat-square",
+				"url": null,
+				"hidden": true
+			}
+		]
+	},
+	"contact": {
+		"badges": [
+			{
+				"id": "github",
+				"message": "GitHub",
+				"logoType": "builtin",
+				"logo": "github",
+				"logoColor": "white",
+				"color": "12100E",
+				"style": "for-the-badge",
+				"url": "https://github.com/dschach"
+			},
+			{
+				"id": "github-x2od",
+				"message": "GitHub x2od",
+				"logoType": "builtin",
+				"logo": "github",
+				"logoColor": "white",
+				"color": "12100E",
+				"style": "for-the-badge",
+				"url": "https://github.com/x2od"
+			},
+			{
+				"id": "trailblazer",
+				"message": "Trailhead",
+				"logoType": "custom",
+				"logo": "trailhead.png",
+				"color": "00A1E0",
+				"style": "for-the-badge",
+				"url": "https://salesforce.com/trailblazer/dschach"
+			},
+			{
+				"id": "linkedin",
+				"message": "LinkedIn",
+				"logoType": "custom",
+				"logo": "linkedin.png",
+				"color": "0A66C2",
+				"style": "for-the-badge",
+				"url": "https://linkedin.com/in/davidschach"
+			},
+			{
+				"id": "twitter-x",
+				"message": "Follow @dschach",
+				"logoType": "builtin",
+				"logo": "x",
+				"logoColor": "white",
+				"color": "1DA1F2",
+				"style": "for-the-badge",
+				"url": "https://twitter.com/dschach/"
+			},
+			{
+				"id": "medium",
+				"message": "Medium",
+				"logoType": "custom",
+				"logo": "medium.svg",
+				"logoColor": "white",
+				"color": "000000",
+				"style": "for-the-badge",
+				"url": "https://medium.com/@dschach",
+				"hidden": true
+			},
+			{
+				"id": "salesforce-stackexchange",
+				"message": "Salesforce StackExchange",
+				"logoType": "custom",
+				"logo": "stackexchange.png",
+				"color": "0063bf",
+				"style": "for-the-badge",
+				"url": "https://salesforce.stackexchange.com/users/dschach"
+			},
+			{
+				"id": "x2od",
+				"message": "X-Squared on Demand",
+				"logoType": "custom",
+				"logo": "x2od.jpg",
+				"color": "006699",
+				"style": "for-the-badge",
+				"url": "https://www.x2od.com"
+			},
+			{
+				"id": "instagram",
+				"message": "Instagram",
+				"logoType": "builtin",
+				"logo": "instagram",
+				"logoColor": "white",
+				"color": "E4405F",
+				"style": "for-the-badge",
+				"url": "https://instagram.com/dschach"
+			},
+			{
+				"id": "strava",
+				"message": "Strava",
+				"logoType": "builtin",
+				"logo": "strava",
+				"logoColor": "white",
+				"color": "FC4C02",
+				"style": "for-the-badge",
+				"url": "https://www.strava.com/athletes/5830850"
+			}
+		]
+	}
+}
