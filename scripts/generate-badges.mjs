@@ -60,11 +60,12 @@ for (const file of readdirSync(OUTPUT_DIR).filter((name) => name.endsWith('.svg'
 const markdown = {};
 const failures = [];
 
-markdown.profile = data.profile.badges.map((badge) => withLink(`![${badge.alt}](${badge.imageUrl})`, badge.url));
+markdown.profile = data.profile.badges.filter((badge) => !badge.hidden).map((badge) => withLink(`![${badge.alt}](${badge.imageUrl})`, badge.url));
 
 for (const section of GENERATED_SECTIONS) {
 	markdown[section] = [];
 	for (const badge of data[section].badges) {
+		if (badge.hidden) continue;
 		const fileName = `${section}-${badge.id}.svg`;
 		try {
 			writeFileSync(join(OUTPUT_DIR, fileName), renderBadge(badge));

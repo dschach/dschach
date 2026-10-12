@@ -117,7 +117,7 @@
 				"message": "PMD",
 				"logoType": "custom",
 				"logo": "pmd.png",
-				"color": "red",
+				"color": "0b1d3a",
 				"style": "flat-square",
 				"url": null
 			},
@@ -146,7 +146,7 @@
 				"message": "ApexDox",
 				"logoType": "custom",
 				"logo": "apexdox.png",
-				"color": "grey",
+				"color": "2a1655",
 				"style": "flat-square",
 				"url": "https://github.com/no-stack-dub-sack/apexdox-vs-code"
 			},
@@ -265,12 +265,13 @@
 			{
 				"id": "medium",
 				"message": "Medium",
-				"logoType": "builtin",
-				"logo": "medium",
+				"logoType": "custom",
+				"logo": "medium.svg",
 				"logoColor": "white",
 				"color": "000000",
 				"style": "for-the-badge",
-				"url": "https://medium.com/@dschach"
+				"url": "https://medium.com/@dschach",
+				"hidden": true
 			},
 			{
 				"id": "salesforce-stackexchange",

@@ -146,7 +146,6 @@
 [![Trailhead](media/badges/contact-trailblazer.svg)](https://salesforce.com/trailblazer/dschach)
 [![LinkedIn](media/badges/contact-linkedin.svg)](https://linkedin.com/in/davidschach)
 [![Twitter](media/badges/contact-twitter-x.svg)](https://twitter.com/dschach/)
-[![Medium](media/badges/contact-medium.svg)](https://medium.com/@dschach)
 [![Salesforce StackExchange](media/badges/contact-salesforce-stackexchange.svg)](https://salesforce.stackexchange.com/users/dschach)
 [![X-Squared on Demand](media/badges/contact-x2od.svg)](https://www.x2od.com)
 [![Instagram](media/badges/contact-instagram.svg)](https://instagram.com/dschach)
