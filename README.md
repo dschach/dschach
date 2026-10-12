@@ -48,7 +48,7 @@
 
 ##### LATEST NEWS
 
-- 🛡️ My main focus is Salesforce DevSecOps: code, metadata, **and** pipeline quality and security. Declarative metadata like Flows and Permission Sets can skip pipelines and quality gates entirely, so I put GitHub Actions gates around the whole change surface, not just Apex.
+- 🛡️ My main focus is Salesforce DevSecOps: code, metadata, and pipeline quality and security. Declarative metadata like Flows and Permission Sets can skip pipelines and quality gates entirely, so I put GitHub Actions gates around the whole change surface, not just Apex.
 - 🧪 I write and maintain custom PMD rulesets for Apex that go beyond the defaults.
 - <img src="https://raw.githubusercontent.com/prettier/prettier-logo/refs/heads/master/images/prettier-icon-light.png" height="15" style="vertical-align: middle;"/> I run one central [Prettier configuration](https://github.com/x2od/prettier-config) and let my other configurations build on it, so I edit formatting rules in one place. It is on npm too: [@x2od/prettier-config](https://www.npmjs.com/package/@x2od/prettier-config)
 - 🎤 Recent talks: "Implementing CodeScan at Scale" at AutoRABIT Dev(H)ops (May 2025) and "What Could Go Wrong If I Don't Build Secure Apex?" at Cactusforce (Feb 2025).
@@ -116,11 +116,11 @@
 
 ##### ACHIEVEMENTS
 
-- 🏅 Salesforce MVP, with 18 Salesforce certifications and continuously certified since 2008
+- 🏅 Former Salesforce MVP with 18 Salesforce certifications, continuously certified since 2008
 - 🎙️ 11-time Dreamforce speaker, and a featured guest on the Salesforce Developers Podcast (episodes 152 and 153, "Being a Trusted Advisor")
 - :us: Original Salesforce Architect for the Obama reelection campaign
 - :cloud: Creator of [Chatter BINGO](https://github.com/dschach/ChatterBINGO) at Dreamforce 2010, the only community member to have an app included in the Dreamforce app
-- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Has surfaced a dwarf error message in Salesforce - IYKYK
+- <img src="https://raw.githubusercontent.com/dschach/dschach/main/media/Salesforce-logo.png" height="15" style="vertical-align: middle;"/> Surfaced a dwarf error message in Salesforce - IYKYK
 - <img style="vertical-align: middle;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter logo" height="15" width="15" /> Founder of the Dreamforce Tweetup, the first and largest community-led user event at Dreamforce
 - :swimmer: :biking_man: :runner: 2x Ironman! <img style="vertical-align: middle;" src="./media/IronmanLogo.png" height="15" />
 - <img style="vertical-align: middle;" src="./media/trailhead_transparent.png" alt="All-Star Ranger Badge" height="15" /> All-Star Trailhead Ranger <img style="vertical-align: middle;" src="./media/all-star-ranger-cropped.png" alt="All-Star Ranger Badge" height="15" />
@@ -128,7 +128,7 @@
 ##### BIO
 
 - 😄 Pronouns: he/him
-- 👨‍💻 All my GitHub projects are available at [https://github.com/dschach](https://github.com/dschach)
+- 👨‍💻 All my GitHub projects are available at [https://github.com/dschach](https://github.com/dschach) and [https://github.com/x2od](https://github.com/x2od)
 - 📝 I should blog more at [X-Squared on Demand](https://www.x2od.com)
 - 📄 Here's my professional experience: [LinkedIn](https://www.linkedin.com/in/davidschach/)
 - 💬 Ask me about apprenticeships and equity in the tech industry.
