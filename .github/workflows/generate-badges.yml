@@ -1,0 +1,66 @@
+name: Generate badges
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - 'badges/badges.json'
+      - 'media/logos/**'
+      - 'scripts/generate-badges.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/generate-badges.yml'
+  workflow_dispatch: # Run manually from the Actions tab
+permissions:
+  contents: write # To push regenerated badges back to the pull request branch
+concurrency:
+  group: generate-badges-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  generate-badges:
+    name: Regenerate badge images and README links
+    runs-on: ubuntu-latest
+    # Forks get a read-only token, so they cannot receive a commit
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository }}
+    env:
+      HUSKY: 0 # Skip git hooks during npm ci
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate badges
+        run: npm run badges
+
+      - name: Commit regenerated badges
+        if: ${{ github.actor != 'dependabot[bot]' }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all media/badges README.md
+          if git diff --cached --quiet; then
+            echo 'Badges are already up to date'
+          else
+            git commit -m 'build(badges): regenerate badge images and README links'
+            git push
+          fi
+
+      # Dependabot pull requests get a read-only token, so report instead of committing
+      - name: Fail if badges are out of date (Dependabot)
+        if: ${{ github.actor == 'dependabot[bot]' }}
+        run: |
+          git add --all media/badges README.md
+          if ! git diff --cached --quiet; then
+            echo '::error ::Badges are out of date. Run "npm run badges" on this branch and commit the result.'
+            git diff --cached --stat
+            exit 1
+          fi

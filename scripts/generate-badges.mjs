@@ -93,7 +93,8 @@ for (const [section, lines] of Object.entries(markdown)) {
 		console.error(`${README} is missing the ${section} badge markers: ${start} ... ${end}`);
 		process.exit(1);
 	}
-	readme = `${readme.slice(0, startIndex + start.length)}\n${lines.join('\n')}\n${readme.slice(endIndex)}`;
+	// Blank lines match what Prettier produces, so the pre-commit hook and CI agree
+	readme = `${readme.slice(0, startIndex + start.length)}\n\n${lines.join('\n')}\n\n${readme.slice(endIndex)}`;
 }
 writeFileSync(README, readme);
 console.log(`Wrote ${readdirSync(OUTPUT_DIR).length} SVG badges to ${OUTPUT_DIR} and updated ${Object.values(markdown).flat().length} README badge links`);
