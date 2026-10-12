@@ -12,7 +12,7 @@ updates:
       prefix-development: 'build' # dev-dependencies
     rebase-strategy: 'auto'
     schedule:
-      interval: 'weekly'
+      interval: 'daily'
   - package-ecosystem: 'github-actions' # See documentation for possible values
     directory: '/' # Location of package manifests
     commit-message:
